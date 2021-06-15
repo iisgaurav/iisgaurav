@@ -29,7 +29,7 @@ Coding is Zindagi 💝🖤
   <br>
   
   
-[![Hotmail](https://img.shields.io/badge/iisgaurav@hotmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
+[![Gmail](https://img.shields.io/badge/gauravv2504@gmail.com-0072c6?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:iisgaurav@hotmail.com)</b></h2>
 
 
 <h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
