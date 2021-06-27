@@ -22,7 +22,7 @@ Coding is Zindagi 💝🖤
 
 
 <br>
-
+<hr>
 
 <h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
   <br>
