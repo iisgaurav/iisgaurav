@@ -1,7 +1,7 @@
 <h1><b>⠂About Me⠐</b></h1>
 <br>
 
-<h3 align="center"><b>
+<h3><b>
 
 ```pascal
 Name = "Gaurav Verma"
