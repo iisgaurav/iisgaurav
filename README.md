@@ -10,12 +10,7 @@ Python Lover 💖
 Coding is Turu Lob ❤
 I'm Still Learning Git & GitHub
 ```
-
 </b></h4>
-
-
-
-
 <br>
 <hr>
 
