@@ -40,7 +40,7 @@ Coding is Turu Lob ❤
 
 
 
-<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<h2><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
@@ -48,7 +48,7 @@ Coding is Turu Lob ❤
 </a>
 </b></h2>  
 
-<h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
+<h><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
@@ -57,7 +57,7 @@ Coding is Turu Lob ❤
 </b></h2>
   
 
-<h2 align="center"><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
+<h2><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
