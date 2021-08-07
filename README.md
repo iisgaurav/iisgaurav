@@ -7,8 +7,8 @@
 Name = "Gaurav Verma"
 Age = "18"
 Country = "India"
-Python Hamara Love Hai 💖
-Coding is Zindagi 💝🖤
+Python Lover 💖
+Coding is Turu Lob ❤
 ```
   
 - 😄I'm Still Learning Git & GitHub
