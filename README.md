@@ -22,11 +22,11 @@ I'm Still Learning Git & GitHub
 </a>
 </b></h3>  
 
-<h3><b>⠂Languages I Use Most⠐
+<h3><b>⠂Languages I Use⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css" />
+    <img width="60%" align="center" alt="Languages I Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h3>
   
