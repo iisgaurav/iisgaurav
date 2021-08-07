@@ -8,12 +8,8 @@ Age = "18"
 Country = "India"
 Python Lover 💖
 Coding is Turu Lob ❤
+  😄I'm Still Learning Git & GitHub
 ```
-  
-- 😄I'm Still Learning Git & GitHub
-- 🥰Python and java Lover
-- 🌱 I’m currently learning about telegram bots
-- 🤔 I’m looking for help for the repos and my groups
 
 </b></h4>
 
