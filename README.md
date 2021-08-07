@@ -24,40 +24,40 @@ Coding is Turu Lob ❤
 <br>
 <hr>
 
-<h2><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
+<h3><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
   <br>
   <br>
   
   
-[![Gmail](https://img.shields.io/badge/gauravv2504@gmail.com-0072c6?style=for-the-badge&logo=Gmail&logoColor=orange)](mailto:gauravv2504@gmail.com)</b></h2>
+[![Gmail](https://img.shields.io/badge/gauravv2504@gmail.com-0072c6?style=for-the-badge&logo=Gmail&logoColor=orange)](mailto:gauravv2504@gmail.com)</b></h3>
 
 
-<h2><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
+<h3><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/IisGaurav) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IisGaurav) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/IisGaurav) [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IisGaurav)  [![pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/IisGaurav)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@IisGaurav)</b></h2>
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/IisGaurav) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/IisGaurav) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IisGaurav) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/IisGaurav) [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IisGaurav)  [![pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/IisGaurav)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@IisGaurav)</b></h3>
 
 
 
-<h2><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<h3><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 </a>
-</b></h2>  
+</b></h3>  
 
-<h><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
+<h3><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
     <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
-</b></h2>
+</b></h3>
   
 
-<h2><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
+<h3><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -81,4 +81,4 @@ Coding is Turu Lob ❤
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />  	
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</b></h2><hr>
+</b></h3><hr>
