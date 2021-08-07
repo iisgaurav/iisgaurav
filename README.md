@@ -8,7 +8,7 @@ Age = "18"
 Country = "India"
 Python Lover 💖
 Coding is Turu Lob ❤
-  😄I'm Still Learning Git & GitHub
+I'm Still Learning Git & GitHub
 ```
 
 </b></h4>
