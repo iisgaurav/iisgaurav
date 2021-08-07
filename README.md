@@ -1,7 +1,7 @@
 <h1><b>⠂About Me⠐</b></h1>
 <br>
 
-<h3><b>
+<h4><b>
 
 ```pascal
 Name = "Gaurav Verma"
@@ -16,7 +16,7 @@ Coding is Turu Lob ❤
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
 
-</b></h3>
+</b></h4>
 
 
 
