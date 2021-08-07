@@ -11,7 +11,6 @@ Coding is Turu Lob ❤
 I'm Still Learning Git & GitHub
 ```
 </b></h4>
-<br>
 
 <h3><b>⠂Github Stats⠐
 <br>
