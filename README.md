@@ -2,7 +2,7 @@
 
 <h4><b>
 
-```pascal
+```java
 Name = "Gaurav Verma"
 Age = "18"
 Country = "India"
