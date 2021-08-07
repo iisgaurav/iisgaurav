@@ -32,7 +32,7 @@ Coding is Turu Lob ❤
 [![Gmail](https://img.shields.io/badge/gauravv2504@gmail.com-0072c6?style=for-the-badge&logo=Gmail&logoColor=orange)](mailto:gauravv2504@gmail.com)</b></h2>
 
 
-<h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
+<h2><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
   <br>
   <br>
 
