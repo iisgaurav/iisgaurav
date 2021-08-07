@@ -24,7 +24,7 @@ Coding is Turu Lob ❤
 <br>
 <hr>
 
-<h3><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
+<h3><b>⠂Contact Me At Mail⠐
   <br>
   <br>
   
@@ -32,7 +32,7 @@ Coding is Turu Lob ❤
 [![Gmail](https://img.shields.io/badge/gauravv2504@gmail.com-0072c6?style=for-the-badge&logo=Gmail&logoColor=orange)](mailto:gauravv2504@gmail.com)</b></h3>
 
 
-<h3><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
+<h3><b> ⠂Connect With Me⠐
   <br>
   <br>
 
@@ -40,7 +40,7 @@ Coding is Turu Lob ❤
 
 
 
-<h3><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<h3><b>⠂Github Stats⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
@@ -48,7 +48,7 @@ Coding is Turu Lob ❤
 </a>
 </b></h3>  
 
-<h3><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
+<h3><b>⠂Languages I Use Most⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
@@ -57,7 +57,7 @@ Coding is Turu Lob ❤
 </b></h3>
   
 
-<h3><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
+<h3><b>⠂Tools And Languages I Love⠐
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
