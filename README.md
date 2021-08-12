@@ -3,7 +3,7 @@
 
 <h1><b>⠂About Me⠐</b></h1>
 
-<h4><b>
+<h4 allign = center><b>
 
 ```python
 "Python" Lover 💖
