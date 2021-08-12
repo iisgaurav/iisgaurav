@@ -41,4 +41,4 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 
 
 
-![[iisgaurav](https://forthebadge.com/generator/?plabel=THANKS&slabel=heart&pbg=%23E46C17&sbg=%23D35B09&stext=%23FFFFFF)](https://GitHub.com/iisgaurav)
+[![iisgaurav](https://forthebadge.com/generator/?plabel=THANKS&slabel=heart&pbg=%23E46C17&sbg=%23D35B09&stext=%23FFFFFF)](https://GitHub.com/iisgaurav)
