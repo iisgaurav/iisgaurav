@@ -6,12 +6,9 @@
 <h4><b>
 
 ```python
-Name = "Gaurav Verma"
-Age = "18"
-Country = "India"
-Python Lover 💖
-Coding is Turu Lob ❤
-I'm Still Learning Git & GitHub
+"Python" Lover 💖
+Want To Be A "Programmer" | "Web Designer" ❤
+I'm Still Learning "Python" | "Javascript" | "Java"  
 ```
 </b></h4>
 
