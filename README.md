@@ -3,7 +3,7 @@
 
 <h1 align = center><b>⠂About Me⠐</b></h1>
 
-<h4 align = center><b>
+<h3 align = center><b>
 
 ```python
 "Python" Lover 💖
@@ -11,23 +11,23 @@ Want To Be A "Programmer" | "Web Designer" ❤
 I'm Still Learning "Python" | "Javascript" | "Java"  
     For Any Suggestion Or Enquiry mail Me At :- gauravv2504@gmail.com
 ```
-</b></h4>
+</b></h3>
 
-<h3 align = center><b>⠂Github Stats⠐
+<h2 align = center><b>⠂Github Stats⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="55%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 </a>
-</b></h3>  
+</b></h2>  
 
-<h3 align = center><b>⠂Languages I Use⠐
+<h2 align = center><b>⠂Languages I Use⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
     <img width="50%" align="center" alt="Languages I Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
-</b></h3>
+</b></h2>
 <hr>
 
 <h1 align = center><b> ⠂Social Accounts⠐
