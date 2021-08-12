@@ -29,7 +29,7 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </a>
 </b></h2>
-<hr>
+
 
 <h1 align = center><b> ⠂Social Accounts⠐
   <br>
@@ -41,4 +41,4 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 
 
 
-[![iisgaurav](https://forthebadge.com/generator/?plabel=THANKS&slabel=heart&pbg=%23E46C17&sbg=%23D35B09&stext=%23FFFFFF)](https://GitHub.com/iisgaurav)
+
