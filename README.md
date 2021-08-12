@@ -29,7 +29,7 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 </b></h3>
 <hr>
 
-<h3 align = center><b> ⠂You Can Follow Me⠐
+<h3 align = center><b> ⠂Contact Me⠐
   <br>
   <br>
     
