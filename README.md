@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://telegra.ph/file/82e6715350d8e1aa642e0.png">
-</p>
 
 
 <h1><b>⠂About Me⠐</b></h1>
