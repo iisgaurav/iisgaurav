@@ -12,7 +12,7 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 ```
 </b></h4>
 
-<h3><b>⠂Github Stats⠐
+<h3 align = center><b>⠂Github Stats⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
@@ -20,7 +20,7 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 </a>
 </b></h3>  
 
-<h3><b>⠂Languages I Use⠐
+<h3 align = center><b>⠂Languages I Use⠐
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
@@ -29,7 +29,7 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 </b></h3>
 <hr>
 
-<h3><b> ⠂Contact Me⠐
+<h3 align = center><b> ⠂Contact Me⠐
   <br>
   <br>
     
