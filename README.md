@@ -1,7 +1,7 @@
 
 
 
-<h1><b>⠂About Me⠐</b></h1>
+<h1 align = center><b>⠂About Me⠐</b></h1>
 
 <h4 align = center><b>
 
