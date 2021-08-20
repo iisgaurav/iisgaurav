@@ -18,12 +18,14 @@ I'm Still Learning "Python" | "Javascript" | "Java"
 <br>
 <br> 
     
-![Profile views](https://gpvc.arturio.dev/iisgaurav)
 <a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="55%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
-</a>
+</a>    
 </b></h2>  
-
+<h1 align = center>
+ 
+![Profile views](https://gpvc.arturio.dev/iisgaurav)   
+</h1>
 <h2 align = center><b>⠂Languages And Tools I Use⠐
 <br>
 <br>
