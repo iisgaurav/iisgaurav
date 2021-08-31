@@ -8,7 +8,7 @@
 ```python
 "Python" Lover 💖
 Want To Be A "Programmer" | "Web Designer" ❤
-I'm Still Learning "Python" | "Javascript" | "Java"  
+I'm Still Learning "Python" | "Java"  
     For Any Suggestion Or Enquiry mail Me At :- gauravv2504@gmail.com
 
 ```
