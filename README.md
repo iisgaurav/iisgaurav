@@ -27,13 +27,10 @@ I'm Still Learning "Python" | "Java"
 
 <br>
 <br>
-<h1 align = center>
-    <p align="center">
-        <img src="https://gpvc.arturio.dev/iisgaurav">
-    </p>
-    
- ![Profile views](https://gpvc.arturio.dev/iisgaurav)   
-</h1>
+
+<p align="center">
+    <img src="https://gpvc.arturio.dev/iisgaurav">
+</p> 
 
 
 <h1 align = center><b> ⠂Social Accounts⠐
