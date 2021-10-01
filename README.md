@@ -32,8 +32,6 @@ I'm Still Learning "Python" | "Java"
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <h1 align = center><b>
     <p align="center">
