@@ -25,8 +25,6 @@ I'm Still Learning "Python" | "Java"
 </h2>  
 
 
-<br>
-
 <h1 align = center><b>
     <p align="center">
         <img src="https://gpvc.arturio.dev/iisgaurav">
