@@ -14,7 +14,7 @@ I'm Still Learning "Python" | "Java"
 ```
 </b></h3>
 
-<h2 align = center>⠂Github Stats⠐
+<h2 align = center><b>⠂Github Stats⠐
 <br>
 <br>
     
@@ -22,7 +22,7 @@ I'm Still Learning "Python" | "Java"
     <img width="55%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" /> 
 </a>   
 <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />    
-</h2>  
+</b></h2>  
 
 
 <h1 align = center><b>
