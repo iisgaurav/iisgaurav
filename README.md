@@ -35,11 +35,11 @@ I'm Still Learning "Python" | "Java"
 <br>
 <br>
 
-
-<p align="center">
-    <img src="https://gpvc.arturio.dev/iisgaurav">
-</p> 
-  
+<h1 align = center><b>
+    <p align="center">
+        <img src="https://gpvc.arturio.dev/iisgaurav">
+    </p> 
+</h1></b>  
 
 
 <h1 align = center><b> ⠂Social Accounts⠐
