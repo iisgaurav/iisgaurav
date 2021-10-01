@@ -24,7 +24,8 @@ I'm Still Learning "Python" | "Java"
 </a>        
 </b></h2>  
 
-
+<br>
+<br>
 
 <h1 align = center>
  
