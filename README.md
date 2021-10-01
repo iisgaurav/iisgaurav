@@ -14,7 +14,7 @@ I'm Still Learning "Python" | "Java"
 ```
 </b></h3>
 
-<h2 align = center><b>⠂Github Stats⠐</b>
+<h2 align = center>⠂Github Stats⠐
 <br>
 <br>
     
