@@ -26,11 +26,7 @@ Mail ID :- gauravv2504@gmail.com
 </b></h2>  
 
 
-<h1 align = center><b>
-    <p align="center">
-        <img src="https://gpvc.arturio.dev/iisgaurav">
-    </p> 
-</h1></b>  
+  
 
 
 <h1 align = center><b> ⠂Social Accounts⠐
