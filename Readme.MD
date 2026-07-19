@@ -5,6 +5,12 @@ Backend Engineer • Django • REST APIs • PostgreSQL
 </p>
 
 <p align="center">
+  <a href="https://github.com/sponsors/iisgaurav">
+    <img src="https://img.shields.io/badge/Sponsor-iisgaurav-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor iisgaurav" />
+  </a>
+</p>
+
+<p align="center">
 I build scalable backend systems, clean APIs, and modern web applications with a focus on performance, maintainability, and real-world problem solving.
 </p>
 
@@ -26,7 +32,7 @@ I build scalable backend systems, clean APIs, and modern web applications with a
 Python • SQL • JavaScript • TypeScript
 
 ### Backend
-Django • Django REST Framework • REST APIs
+Django • Django REST Framework • REST APIs • Telegram Bots (aiogram)
 
 ### Frontend
 Next.js • React • Tailwind CSS
@@ -35,18 +41,8 @@ Next.js • React • Tailwind CSS
 PostgreSQL • MySQL
 
 ### Tools
-Git • GitHub • Postman • Power BI • Vercel
+Git • GitHub • Docker • Postman • Power BI • Vercel
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=transparent" width="48%" />
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
