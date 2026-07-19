@@ -1,45 +1,46 @@
-<h1 align="center">Gaurav Verma</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Verma</h1>
+
 <p align="center">
-Backend & Full-Stack Engineer • Django • APIs • Data-Driven Products
+Backend Engineer • Django • REST APIs • PostgreSQL
+</p>
+
+<p align="center">
+I build scalable backend systems, clean APIs, and modern web applications with a focus on performance, maintainability, and real-world problem solving.
 </p>
 
 ---
 
-## About Me
-I’m a backend-focused engineer who enjoys building scalable, data-driven web applications and real-world systems.  
-My work focuses on API design, performance, and production-ready architectures.
+## 👨‍💻 About Me
 
-- Backend: Django, REST APIs, PostgreSQL
-- Frontend: Next.js, React, Tailwind
-- Focus: Scalable systems, performance, and clean architecture
-- Currently exploring: AI-powered product features
-
----
-
-## Featured Projects
-
-### Attendate — Intelligent Event Platform
-Full-stack event management system with AI-powered discovery.
-
-**Tech:** Django, PostgreSQL, Next.js, OpenAI, Cashfree  
-**Key features:**
-- Secure ticket booking and payment workflows
-- AI-based event search assistant
-- Personalized recommendation system
-- Organizer dashboards and analytics
+- 🔹 Backend engineer specializing in **Django** and **Django REST Framework**
+- 🔹 Experienced in designing RESTful APIs and relational database schemas
+- 🔹 Comfortable building full-stack applications using **Next.js** and **React**
+- 🔹 Interested in backend architecture, API performance, and scalable systems
+- 🔹 Currently learning AI integrations, cloud technologies, and system design
 
 ---
 
-## Tech Stack
-**Languages:** Python, SQL, JavaScript  
-**Backend:** Django, Django REST Framework, API Design  
-**Frontend:** Next.js, React, Tailwind CSS  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Git, Postman, Vercel, Power BI  
+## 🛠 Tech Stack
+
+### Languages
+Python • SQL • JavaScript • TypeScript
+
+### Backend
+Django • Django REST Framework • REST APIs
+
+### Frontend
+Next.js • React • Tailwind CSS
+
+### Database
+PostgreSQL • MySQL
+
+### Tools
+Git • GitHub • Postman • Power BI • Vercel
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&theme=transparent" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=transparent" width="48%" />
@@ -47,6 +48,17 @@ Full-stack event management system with AI-powered discovery.
 
 ---
 
-## Contact
+## 🌱 Currently Exploring
+
+- AI-powered applications
+- System Design
+- Cloud Deployment
+- Performance Optimization
+- Backend Best Practices
+
+---
+
+## 🤝 Connect With Me
+
 - LinkedIn: https://linkedin.com/in/iisgaurav
 - Email: gauravv2504@gmail.com
