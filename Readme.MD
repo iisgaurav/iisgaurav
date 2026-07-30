@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/about.svg?v=v4" alt="Gaurav Verma Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/about.svg?v=v5" alt="Gaurav Verma Banner" width="100%" />
   </picture>
 
   <br />
