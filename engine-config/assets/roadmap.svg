@@ -24,7 +24,7 @@ Theme: modern
 <g role="text">
     <title>Text</title>
     <desc>95%</desc>
-    <text x="335" y="87" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="#94A3B8">95%</text>
+    <text x="335" y="87" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="text_muted">95%</text>
 </g>
 
 <g role="meter" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
@@ -44,7 +44,7 @@ Theme: modern
 <g role="text">
     <title>Text</title>
     <desc>85%</desc>
-    <text x="335" y="144" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="#94A3B8">85%</text>
+    <text x="335" y="144" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="text_muted">85%</text>
 </g>
 
 <g role="meter" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
@@ -64,7 +64,7 @@ Theme: modern
 <g role="text">
     <title>Text</title>
     <desc>90%</desc>
-    <text x="335" y="201" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="#94A3B8">90%</text>
+    <text x="335" y="201" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="text_muted">90%</text>
 </g>
 
 <g role="meter" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
@@ -84,7 +84,7 @@ Theme: modern
 <g role="text">
     <title>Text</title>
     <desc>80%</desc>
-    <text x="335" y="258" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="#94A3B8">80%</text>
+    <text x="335" y="258" font-family="Inter, sans-serif" font-size="12" font-weight="normal" fill="text_muted">80%</text>
 </g>
 
 <g role="meter" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
