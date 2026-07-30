@@ -21,7 +21,7 @@ jobs:
           python-version: '3.12'
           
       - name: Install ProfileForge
-        run: pip install profileforge
+        run: pip install git+https://github.com/iisgaurav/profileforge.git
         
       - name: Build Profile Widgets
         run: |
