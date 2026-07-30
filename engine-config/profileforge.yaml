@@ -9,26 +9,11 @@ datasources:
     root: "./config"
 widgets:
   - name: about
-    grid:
-      width: 2
-      height: 1
   - name: roadmap
-    grid:
-      width: 1
-      height: 2
   - name: expertise
-    grid:
-      width: 1
-      height: 1
 outputs:
   svg:
     enabled: true
     dir: "assets"
 dashboard:
-  enabled: true
-  layout: bento
-  title: "Current Focus & Stack"
-  header:
-    enabled: false
-  footer:
-    enabled: true
+  enabled: false
