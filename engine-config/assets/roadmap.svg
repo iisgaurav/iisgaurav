@@ -4,15 +4,16 @@ Version: 1
 Theme: github-dark
 -->
 
-<svg x="0" y="0" width="420" height="284" viewBox="0 0 420 284" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
+<svg x="0" y="0" width="480" height="284" viewBox="0 0 480 284" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
     <title>Learning Roadmap Card</title>
     <desc>Card component for Learning Roadmap</desc>
     <style>
         .card-bg { fill: #0D1117; stroke: #30363D; stroke-width: 1px; rx: 6px;  }
         .title { font-family: Inter, -apple-system, sans-serif; font-size: 20px; font-weight: 600; fill: #C9D1D9; }
+        text { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
     </style>
-    <rect x="0.5" y="0.5" width="419" height="283" class="card-bg" />
-    <text x="24" y="30" class="title">Learning Roadmap</text>
+    <rect x="0.5" y="0.5" width="479" height="283" class="card-bg" />
+    <text x="24" y="32" class="title">Learning Roadmap</text>
     
 <g role="text">
     <title>Text</title>
@@ -23,14 +24,14 @@ Theme: github-dark
 <g role="text">
     <title>Text</title>
     <desc>95%</desc>
-    <text x="332" y="78" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">95%</text>
+    <text x="394" y="78" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">95%</text>
 </g>
 
 <g role="meter" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
     <title>Progress Bar</title>
     <desc>Progress: 95%</desc>
-    <rect x="24" y="82" width="332" height="8" fill="#0D1117" rx="4" />
-    <rect x="24" y="82" width="315.4" height="8" fill="#58A6FF" rx="4" />
+    <rect x="24" y="82" width="392" height="8" fill="#0D1117" rx="4" />
+    <rect x="24" y="82" width="372.4" height="8" fill="#58A6FF" rx="4" />
 </g>
 
 <g role="text">
@@ -42,14 +43,14 @@ Theme: github-dark
 <g role="text">
     <title>Text</title>
     <desc>85%</desc>
-    <text x="332" y="128" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">85%</text>
+    <text x="394" y="128" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">85%</text>
 </g>
 
 <g role="meter" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
     <title>Progress Bar</title>
     <desc>Progress: 85%</desc>
-    <rect x="24" y="132" width="332" height="8" fill="#0D1117" rx="4" />
-    <rect x="24" y="132" width="282.2" height="8" fill="#58A6FF" rx="4" />
+    <rect x="24" y="132" width="392" height="8" fill="#0D1117" rx="4" />
+    <rect x="24" y="132" width="333.2" height="8" fill="#58A6FF" rx="4" />
 </g>
 
 <g role="text">
@@ -61,14 +62,14 @@ Theme: github-dark
 <g role="text">
     <title>Text</title>
     <desc>90%</desc>
-    <text x="332" y="178" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">90%</text>
+    <text x="394" y="178" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">90%</text>
 </g>
 
 <g role="meter" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
     <title>Progress Bar</title>
     <desc>Progress: 90%</desc>
-    <rect x="24" y="182" width="332" height="8" fill="#0D1117" rx="4" />
-    <rect x="24" y="182" width="298.8" height="8" fill="#58A6FF" rx="4" />
+    <rect x="24" y="182" width="392" height="8" fill="#0D1117" rx="4" />
+    <rect x="24" y="182" width="352.8" height="8" fill="#58A6FF" rx="4" />
 </g>
 
 <g role="text">
@@ -80,13 +81,13 @@ Theme: github-dark
 <g role="text">
     <title>Text</title>
     <desc>80%</desc>
-    <text x="332" y="228" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">80%</text>
+    <text x="394" y="228" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#8B949E">80%</text>
 </g>
 
 <g role="meter" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
     <title>Progress Bar</title>
     <desc>Progress: 80%</desc>
-    <rect x="24" y="232" width="332" height="8" fill="#0D1117" rx="4" />
-    <rect x="24" y="232" width="265.6" height="8" fill="#58A6FF" rx="4" />
+    <rect x="24" y="232" width="392" height="8" fill="#0D1117" rx="4" />
+    <rect x="24" y="232" width="313.6" height="8" fill="#58A6FF" rx="4" />
 </g>
 </svg>

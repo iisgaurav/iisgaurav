@@ -74,8 +74,8 @@ I believe software should be:
 ## 🎯 Current Focus & Learning
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=20260730235848" alt="Roadmap" width="400"/>
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=20260730235848" alt="Expertise" width="400"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=20260731000300" alt="Roadmap" width="48%"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=20260731000300" alt="Expertise" width="48%"/>
 </div>
 
 <br/>
