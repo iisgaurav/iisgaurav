@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Gaurav%20%F0%9F%91%8B&fontSize=40" alt="Gaurav Verma Banner" width="100%" />
+  <picture>
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/about.svg?v=20260731015100" alt="Gaurav Verma Banner" width="100%" />
+  </picture>
 
   <br />
 
@@ -120,10 +122,6 @@ My engineering principles:
       </td>
     </tr>
   </table>
-  <br/>
-  <picture>
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/about.svg?v=20260731014600" alt="About" width="100%"/>
-  </picture>
 </div>
 
 ---
