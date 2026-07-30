@@ -9,7 +9,7 @@ Theme: github-dark
     <desc>Card component for Backend Expertise</desc>
     <style>
         .card-bg { fill: #0D1117; stroke: #30363D; stroke-width: 1px; rx: 6px;  }
-        .title { font-family: Inter, -apple-system, sans-serif; font-size: 20px; font-weight: 600; fill: #C9D1D9; }
+        .title { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #C9D1D9; }
         text { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
     </style>
     <rect x="0.5" y="0.5" width="479" height="163" class="card-bg" />
@@ -19,27 +19,27 @@ Theme: github-dark
     <title>Badge</title>
     <desc>Badge: Backend Systems</desc>
     <rect x="24" y="64" width="136" height="24" rx="12" fill="#58A6FF" fill-opacity="0.15" />
-    <text x="92.0" y="76.0" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">Backend Systems</text>
+    <text x="92.0" y="76.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">Backend Systems</text>
 </g>
 
 <g role="term">
     <title>Badge</title>
     <desc>Badge: API Development</desc>
     <rect x="168" y="64" width="136" height="24" rx="12" fill="#58A6FF" fill-opacity="0.15" />
-    <text x="236.0" y="76.0" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">API Development</text>
+    <text x="236.0" y="76.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">API Development</text>
 </g>
 
 <g role="term">
     <title>Badge</title>
     <desc>Badge: Tooling &amp; Infrastructure</desc>
     <rect x="24" y="96" width="204" height="24" rx="12" fill="#58A6FF" fill-opacity="0.15" />
-    <text x="126.0" y="108.0" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">Tooling &amp; Infrastructure</text>
+    <text x="126.0" y="108.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">Tooling &amp; Infrastructure</text>
 </g>
 
 <g role="term">
     <title>Badge</title>
     <desc>Badge: Cloud Native Deployments</desc>
     <rect x="236" y="96" width="204" height="24" rx="12" fill="#58A6FF" fill-opacity="0.15" />
-    <text x="338.0" y="108.0" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">Cloud Native Deployments</text>
+    <text x="338.0" y="108.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#58A6FF" text-anchor="middle" dominant-baseline="central">Cloud Native Deployments</text>
 </g>
 </svg>
