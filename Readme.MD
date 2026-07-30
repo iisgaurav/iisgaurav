@@ -23,41 +23,24 @@
 
 ---
 
-## ⚡ Engineering Philosophy
+## 👋 About Me
 
-I believe software should be:
+Backend-focused Software Engineer passionate about building scalable systems, developer tools, and automation platforms. 
 
-- **✓ Modular**
-- **✓ Scalable**
-- **✓ Maintainable**
-- **✓ Database Driven**
-- **✓ API First**
-- **✓ Easy to Debug**
+Currently exploring distributed systems, cloud architecture, and open-source framework design.
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Engineering Philosophy
 
-### 🎟️ Attendate
-> Modern Event Management Platform
+I believe software should be built with:
 
-- **Stack:** `Python` • `Django` • `PostgreSQL` • `Next.js`
-- **Highlights:** JWT Authentication • Event Booking • Organizer Dashboard • PDF Tickets • Email Templates • Payments
-- [View Repository](https://github.com/iisgaurav/attendate)
-
-### 🤖 PglRobot
-> Enterprise-scale Telegram Bot Framework
-
-- **Stack:** `Python` • `aiogram` • `PostgreSQL`
-- **Highlights:** 35+ Independent Plugins • Async Architecture • APScheduler Jobs • Custom Permission System • Modular Plugin Loader
-- [View Repository](https://github.com/iisgaurav/PglRobot)
-
-### 🔗 URL Shortener
-> High-performance URL shortening service
-
-- **Stack:** `Python` • `FastAPI` • `Redis` • `PostgreSQL`
-- **Highlights:** Database indexing • Fast redirection • Analytics • REST APIs • Clean architecture
-- [View Repository](https://github.com/iisgaurav/urlsortner)
+- **✓ Clean Architecture**
+- **✓ API-First Design**
+- **✓ Performance by Default**
+- **✓ Modular Systems**
+- **✓ Developer Experience**
+- **✓ Long-Term Maintainability**
 
 ---
 
@@ -68,6 +51,53 @@ I believe software should be:
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,nextjs,react,postgres,docker,redis,git,linux" />
   </a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎨 ProfileForge 🟢 *Active Development*
+> Declarative Python framework for generating beautiful GitHub profile widgets.
+
+- **Stack:** `Python` • `SVG` • `Design System` • `CLI`
+- **Highlights:**
+  - Component Architecture (React-inspired)
+  - Flex-style Layout Engine
+  - Dynamic Theming Engine (Tokens)
+  - Accessible SVG Renderer
+- [View Repository](https://github.com/iisgaurav/profileforge)
+
+### 🎟️ Attendate 🟢 *Maintained*
+> Modern Event Management Platform
+
+- **Stack:** `Python` • `Django` • `PostgreSQL` • `Next.js`
+- **Highlights:**
+  - JWT Authentication
+  - Organizer Dashboard
+  - Payment Integration
+  - PDF Ticket Generation
+- [View Repository](https://github.com/iisgaurav/attendate)
+
+### 🤖 PglRobot 🟢 *Maintained*
+> Enterprise-scale Telegram Bot Framework
+
+- **Stack:** `Python` • `aiogram` • `PostgreSQL`
+- **Highlights:**
+  - 35+ Independent Plugins
+  - Async Architecture
+  - Custom Permission System
+  - Modular Plugin Loader
+- [View Repository](https://github.com/iisgaurav/PglRobot)
+
+### 🔗 URL Shortener 🟡 *Experimental*
+> High-performance URL shortening service
+
+- **Stack:** `Python` • `FastAPI` • `Redis` • `PostgreSQL`
+- **Highlights:**
+  - Database Indexing
+  - High-speed Redirection
+  - Analytics & REST APIs
+- [View Repository](https://github.com/iisgaurav/urlsortner)
 
 ---
 
@@ -98,5 +128,5 @@ I believe software should be:
 ---
 
 <div align="center">
-  <p><i>Building software that solves real problems.</i></p>
+  <p><i>Designing scalable backend systems, one project at a time.</i></p>
 </div>
