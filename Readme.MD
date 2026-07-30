@@ -13,6 +13,9 @@
     <a href="mailto:gauravv2504@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://github.com/sponsors/iisgaurav" target="_blank">
+      <img src="https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+    </a>
   </p>
 
   <h3>I build backend systems focused on clean architecture, performance, scalability, and automation.</h3>
