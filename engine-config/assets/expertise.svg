@@ -8,7 +8,7 @@ Theme: github-dark
     <title>Backend Expertise Card</title>
     <desc>Card component for Backend Expertise</desc>
     <style>
-        .card-bg { fill: #0D1117; stroke: #30363D; stroke-width: 1px; rx: 6px;  }
+        .card-bg { fill: transparent; stroke: #30363D; stroke-width: 1px; rx: 6px;  }
         .title { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #C9D1D9; }
         text { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
     </style>
