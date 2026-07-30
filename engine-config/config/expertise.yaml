@@ -1,8 +1,34 @@
-- "Python"
-- "FastAPI"
-- "PostgreSQL"
-- "Redis"
-- "Docker"
-- "Kubernetes"
-- "AWS"
-- "System Design"
+skills:
+  languages:
+    - Python
+    - SQL
+    - JavaScript
+    - TypeScript
+
+  backend:
+    - Django
+    - Django REST Framework
+    - Aiogram
+
+  database:
+    - PostgreSQL
+    - Redis
+    - MySQL
+
+  frontend:
+    - Next.js
+    - React
+    - Tailwind CSS
+
+  devops:
+    - Docker
+    - Git
+    - GitHub Actions
+    - Linux
+
+  engineering:
+    - Clean Architecture
+    - REST APIs
+    - API Design
+    - Asynchronous Programming
+    - System Design
