@@ -1,0 +1,39 @@
+name: "showcase"
+mode: "showcase"
+colors:
+  primary: "#FFD700"
+  secondary: "#FF8C00"
+  background: "#121212"
+  surface: "#242424"
+  border: "#424242"
+  text: "#E0E0E0"
+  muted: "#757575"
+  success: "#4CAF50"
+  warning: "#FFC107"
+  info: "#2196F3"
+  accent: "#E91E63"
+typography:
+  font_family: "Roboto, sans-serif"
+  heading: 32
+  body: 18
+  small: 14
+spacing:
+  xs: 8
+  sm: 16
+  md: 24
+  lg: 40
+  xl: 60
+radius:
+  card: 16
+  progress: 8
+  badge: 8
+shadows:
+  none: "none"
+  low: "0 4px 8px rgba(0,0,0,0.3)"
+  medium: "0 8px 16px rgba(0,0,0,0.4)"
+  high: "0 20px 40px rgba(0,0,0,0.5)"
+motion:
+  duration_fast: 200
+  duration_normal: 400
+  duration_slow: 800
+  easing: "cubic-bezier(0.68, -0.55, 0.27, 1.55)"

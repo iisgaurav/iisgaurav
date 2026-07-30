@@ -1,0 +1,39 @@
+name: "modern"
+mode: "modern"
+colors:
+  primary: "#3B82F6"
+  secondary: "#8B5CF6"
+  background: "#0F172A"
+  surface: "#1E293B"
+  border: "#334155"
+  text: "#F8FAFC"
+  muted: "#94A3B8"
+  success: "#10B981"
+  warning: "#F59E0B"
+  info: "#0EA5E9"
+  accent: "#EC4899"
+typography:
+  font_family: "Inter, sans-serif"
+  heading: 28
+  body: 16
+  small: 12
+spacing:
+  xs: 6
+  sm: 12
+  md: 20
+  lg: 32
+  xl: 48
+radius:
+  card: 12
+  progress: 6
+  badge: 4
+shadows:
+  none: "none"
+  low: "0 2px 4px rgba(0,0,0,0.2)"
+  medium: "0 6px 12px rgba(0,0,0,0.3)"
+  high: "0 15px 25px rgba(0,0,0,0.4)"
+motion:
+  duration_fast: 150
+  duration_normal: 300
+  duration_slow: 500
+  easing: "cubic-bezier(0.4, 0, 0.2, 1)"

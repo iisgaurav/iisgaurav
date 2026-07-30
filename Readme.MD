@@ -80,8 +80,8 @@ I believe software should be:
 ## 🎯 Current Focus & Learning
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=3" alt="Roadmap" width="400"/>
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=3" alt="Expertise" width="400"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=4" alt="Roadmap" width="400"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=4" alt="Expertise" width="400"/>
 </div>
 
 <br/>
