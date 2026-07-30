@@ -1,0 +1,16 @@
+version: 1
+project:
+  name: "Gaurav Verma"
+  title: "Software Engineer"
+themes:
+  active: "github-dark"
+datasources:
+  local:
+    root: "./config"
+widgets:
+  - roadmap
+  - expertise
+outputs:
+  svg:
+    enabled: true
+    dir: "assets"

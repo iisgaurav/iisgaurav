@@ -1,0 +1,36 @@
+name: Generate Profile Widgets
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths:
+      - 'engine-config/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          
+      - name: Install ProfileForge
+        run: pip install profileforge
+        
+      - name: Build Profile Widgets
+        run: |
+          cd engine-config
+          profileforge build
+          
+      - name: Commit Generated Assets
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add engine-config/assets/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update profile widgets" && git push)
