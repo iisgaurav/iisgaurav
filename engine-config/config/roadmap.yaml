@@ -1,8 +1,15 @@
 - skill: Python
   progress: 95
+  color: "#3B82F6"
+- skill: System Design
+  progress: 88
+  color: "#10B981"
 - skill: Cloud Architecture
-  progress: 85
+  progress: 82
+  color: "#8B5CF6"
 - skill: Open Source
   progress: 90
-- skill: System Design
-  progress: 80
+  color: "#F59E0B"
+- skill: Backend Engineering
+  progress: 93
+  color: "#06B6D4"
