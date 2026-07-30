@@ -4,65 +4,61 @@ Version: 1
 Theme: modern
 -->
 
-<svg x="0" y="0" width="420" height="302" viewBox="0 0 420 302" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
+<svg x="0" y="0" width="420" height="238" viewBox="0 0 420 238" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
     <title>Backend Expertise Card</title>
     <desc>Card component for Backend Expertise</desc>
     <style>
         .card-bg { fill: #1E293B; stroke: #334155; stroke-width: 1px; rx: 12px; filter: drop-shadow(0 6px 12px rgba(0,0,0,0.3)); }
         .title { font-family: Inter, sans-serif; font-size: 28px; font-weight: 600; fill: #F8FAFC; }
     </style>
-    <rect x="0.5" y="0.5" width="419" height="301" class="card-bg" />
+    <rect x="0.5" y="0.5" width="419" height="237" class="card-bg" />
     <text x="25" y="35" class="title">Backend Expertise</text>
     
 <g role="text">
     <title>Text</title>
-    <desc>Backend Systems</desc>
-    <text x="24" y="90" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">Backend Systems</text>
+    <desc>•</desc>
+    <text x="24" y="92" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#3B82F6">•</text>
 </g>
 
-<g role="meter" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-    <title>Progress Bar</title>
-    <desc>Progress: 100%</desc>
-    <rect x="24" y="96" width="332" height="6" fill="#1E293B" rx="6" />
-    <rect x="24" y="96" width="332.0" height="6" fill="#EC4899" rx="6" />
+<g role="text">
+    <title>Text</title>
+    <desc>Backend Systems</desc>
+    <text x="44" y="91" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">Backend Systems</text>
+</g>
+
+<g role="text">
+    <title>Text</title>
+    <desc>•</desc>
+    <text x="24" y="126" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#3B82F6">•</text>
 </g>
 
 <g role="text">
     <title>Text</title>
     <desc>API Development</desc>
-    <text x="24" y="142" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">API Development</text>
+    <text x="44" y="125" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">API Development</text>
 </g>
 
-<g role="meter" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-    <title>Progress Bar</title>
-    <desc>Progress: 100%</desc>
-    <rect x="24" y="148" width="332" height="6" fill="#1E293B" rx="6" />
-    <rect x="24" y="148" width="332.0" height="6" fill="#EC4899" rx="6" />
+<g role="text">
+    <title>Text</title>
+    <desc>•</desc>
+    <text x="24" y="160" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#3B82F6">•</text>
 </g>
 
 <g role="text">
     <title>Text</title>
     <desc>Tooling &amp; Infrastructure</desc>
-    <text x="24" y="194" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">Tooling &amp; Infrastructure</text>
+    <text x="44" y="159" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">Tooling &amp; Infrastructure</text>
 </g>
 
-<g role="meter" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-    <title>Progress Bar</title>
-    <desc>Progress: 100%</desc>
-    <rect x="24" y="200" width="332" height="6" fill="#1E293B" rx="6" />
-    <rect x="24" y="200" width="332.0" height="6" fill="#EC4899" rx="6" />
+<g role="text">
+    <title>Text</title>
+    <desc>•</desc>
+    <text x="24" y="194" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#3B82F6">•</text>
 </g>
 
 <g role="text">
     <title>Text</title>
     <desc>Cloud Native Deployments</desc>
-    <text x="24" y="246" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">Cloud Native Deployments</text>
-</g>
-
-<g role="meter" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-    <title>Progress Bar</title>
-    <desc>Progress: 100%</desc>
-    <rect x="24" y="252" width="332" height="6" fill="#1E293B" rx="6" />
-    <rect x="24" y="252" width="332.0" height="6" fill="#EC4899" rx="6" />
+    <text x="44" y="193" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#F8FAFC">Cloud Native Deployments</text>
 </g>
 </svg>
