@@ -10,7 +10,7 @@ datasources:
 widgets:
   - name: roadmap
     grid:
-      width: 2
+      width: 1
       height: 2
   - name: expertise
     grid:
