@@ -7,13 +7,8 @@ Theme: github-dark
 <svg x="0" y="0" width="480" height="300" viewBox="0 0 480 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
     <title>Backend Expertise Card</title>
     <desc>Card component for Backend Expertise</desc>
-    <style>
-        .card-bg { fill: transparent; stroke: #30363D; stroke-width: 1px; rx: 6px;  }
-        .title { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #C9D1D9; }
-        text { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
-    </style>
-    <rect x="0.5" y="0.5" width="479" height="299" class="card-bg" />
-    <text x="24" y="32" class="title">Backend Expertise</text>
+    <rect x="0.5" y="0.5" width="479" height="299" fill="transparent" stroke="#30363D" stroke-width="1" rx="6" style="" />
+    <text x="24" y="32" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#C9D1D9" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;">Backend Expertise</text>
     
 <g role="term">
     <title>Badge</title>
