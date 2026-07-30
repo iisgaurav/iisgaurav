@@ -6,8 +6,8 @@ I'm a Python Backend Developer focused on scalable architecture and open source.
 Here is an overview of what I'm working on and my areas of expertise:
 
 <div align="center">
-  <img src="engine-config/assets/roadmap.svg?v=1" alt="Roadmap" width="400"/>
-  <img src="engine-config/assets/expertise.svg?v=1" alt="Expertise" width="400"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=2" alt="Roadmap" width="400"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=2" alt="Expertise" width="400"/>
 </div>
 
 ---
