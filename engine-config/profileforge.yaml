@@ -3,7 +3,7 @@ project:
   name: "Gaurav Verma"
   title: "Software Engineer"
 themes:
-  active: "modern"
+  active: "github-dark"
 datasources:
   local:
     root: "./config"
