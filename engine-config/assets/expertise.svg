@@ -19,7 +19,7 @@ Theme: github-dark
 
 <rect x="25" y="156" width="350" height="8" fill="#21262D" rx="4.0" />
 <rect x="25" y="156" width="350.0" height="8" fill="#58A6FF" rx="4.0" />
-<text x="25" y="203" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C9D1D9">Tooling & Infrastructure</text>
+<text x="25" y="203" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#C9D1D9">Tooling &amp; Infrastructure</text>
 
 <rect x="25" y="213" width="350" height="8" fill="#21262D" rx="4.0" />
 <rect x="25" y="213" width="350.0" height="8" fill="#58A6FF" rx="4.0" />
