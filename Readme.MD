@@ -106,8 +106,8 @@ My engineering principles:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=20260731001428" alt="Roadmap" width="48%"/>
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=20260731001428" alt="Expertise" width="48%"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=20260731002959" alt="Roadmap" width="48%"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=20260731002959" alt="Expertise" width="48%"/>
 </div>
 
 <br/>
