@@ -96,123 +96,123 @@ Widget: expertise
     <text x="20" y="85" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Languages</text>
 
 <g role="term">
-    <rect x="20" y="93" width="85" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="62.5" y="105.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Python</text>
+    <rect x="20" y="93" width="79" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="59.5" y="105.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Python</text>
 </g>
 
 <g role="term">
-    <rect x="113" y="93" width="62" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="144.0" y="105.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">SQL</text>
+    <rect x="107" y="93" width="59" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="136.5" y="105.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">SQL</text>
 </g>
 
 <g role="term">
-    <rect x="183" y="93" width="115" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="240.5" y="105.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">JavaScript</text>
+    <rect x="174" y="93" width="106" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="227.0" y="105.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">JavaScript</text>
 </g>
 
 <g role="term">
-    <rect x="20" y="125" width="115" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="77.5" y="137.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">TypeScript</text>
+    <rect x="20" y="125" width="106" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="73.0" y="137.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">TypeScript</text>
 </g>
 
 <text x="20" y="178" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Backend</text>
 
 <g role="term">
-    <rect x="20" y="186" width="85" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="62.5" y="198.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django</text>
+    <rect x="20" y="186" width="79" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="59.5" y="198.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django</text>
 </g>
 
 <g role="term">
-    <rect x="113" y="186" width="197" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="211.5" y="198.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django REST Framework</text>
+    <rect x="107" y="186" width="178" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="196.0" y="198.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django REST Framework</text>
 </g>
 
 <g role="term">
-    <rect x="20" y="218" width="92" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="66.0" y="230.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Aiogram</text>
+    <rect x="20" y="218" width="86" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="63.0" y="230.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Aiogram</text>
 </g>
 
 <text x="20" y="271" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Database</text>
 
 <g role="term">
-    <rect x="20" y="279" width="115" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="77.5" y="291.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">PostgreSQL</text>
+    <rect x="20" y="279" width="106" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="73.0" y="291.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">PostgreSQL</text>
 </g>
 
 <g role="term">
-    <rect x="143" y="279" width="77" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="181.5" y="291.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Redis</text>
+    <rect x="134" y="279" width="73" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="170.5" y="291.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Redis</text>
 </g>
 
 <g role="term">
-    <rect x="228" y="279" width="77" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="266.5" y="291.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">MySQL</text>
+    <rect x="215" y="279" width="73" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="251.5" y="291.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">MySQL</text>
 </g>
 
 <text x="20" y="332" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Frontend</text>
 
 <g role="term">
-    <rect x="20" y="340" width="92" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="66.0" y="352.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Next.js</text>
+    <rect x="20" y="340" width="86" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="63.0" y="352.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Next.js</text>
 </g>
 
 <g role="term">
-    <rect x="120" y="340" width="77" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="158.5" y="352.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">React</text>
+    <rect x="114" y="340" width="73" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="150.5" y="352.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">React</text>
 </g>
 
 <g role="term">
-    <rect x="205" y="340" width="130" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="270.0" y="352.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Tailwind CSS</text>
+    <rect x="195" y="340" width="119" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="254.5" y="352.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Tailwind CSS</text>
 </g>
 
 <text x="20" y="393" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Devops</text>
 
 <g role="term">
-    <rect x="20" y="401" width="85" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="62.5" y="413.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Docker</text>
+    <rect x="20" y="401" width="79" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="59.5" y="413.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Docker</text>
 </g>
 
 <g role="term">
-    <rect x="113" y="401" width="62" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="144.0" y="413.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Git</text>
+    <rect x="107" y="401" width="59" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="136.5" y="413.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Git</text>
 </g>
 
 <g role="term">
-    <rect x="183" y="401" width="145" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="255.5" y="413.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">GitHub Actions</text>
+    <rect x="174" y="401" width="132" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="240.0" y="413.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">GitHub Actions</text>
 </g>
 
 <g role="term">
-    <rect x="20" y="433" width="77" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="58.5" y="445.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Linux</text>
+    <rect x="20" y="433" width="73" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="56.5" y="445.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Linux</text>
 </g>
 
 <text x="20" y="486" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Engineering</text>
 
 <g role="term">
-    <rect x="20" y="494" width="175" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="107.5" y="506.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Clean Architecture</text>
+    <rect x="20" y="494" width="158" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="99.0" y="506.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Clean Architecture</text>
 </g>
 
 <g role="term">
-    <rect x="203" y="494" width="107" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="256.5" y="506.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">REST APIs</text>
+    <rect x="186" y="494" width="99" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="235.5" y="506.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">REST APIs</text>
 </g>
 
 <g role="term">
-    <rect x="20" y="526" width="115" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="77.5" y="538.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">API Design</text>
+    <rect x="20" y="526" width="106" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="73.0" y="538.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">API Design</text>
 </g>
 
 <g role="term">
-    <rect x="20" y="558" width="220" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="130.0" y="570.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Asynchronous Programming</text>
+    <rect x="134" y="526" width="198" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="233.0" y="538.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Asynchronous Programming</text>
 </g>
 
 <g role="term">
-    <rect x="20" y="590" width="137" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="88.5" y="602.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">System Design</text>
+    <rect x="20" y="558" width="125" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="82.5" y="570.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">System Design</text>
 </g>
 </svg>
 </svg>
