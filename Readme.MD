@@ -68,20 +68,11 @@ I believe software should be:
 
 ---
 
-## 📈 GitHub Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iisgaurav&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
-
 ## 🎯 Current Focus & Learning
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=4" alt="Roadmap" width="400"/>
-  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=4" alt="Expertise" width="400"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=5" alt="Roadmap" width="400"/>
+  <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=5" alt="Expertise" width="400"/>
 </div>
 
 <br/>
