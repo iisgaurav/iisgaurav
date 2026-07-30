@@ -9,6 +9,9 @@ on:
     paths:
       - 'engine-config/**'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
