@@ -8,9 +8,23 @@ datasources:
   local:
     root: "./config"
 widgets:
-  - roadmap
-  - expertise
+  - name: roadmap
+    grid:
+      width: 2
+      height: 2
+  - name: expertise
+    grid:
+      width: 1
+      height: 1
 outputs:
   svg:
     enabled: true
     dir: "assets"
+dashboard:
+  enabled: true
+  layout: bento
+  title: "Current Focus & Stack"
+  header:
+    enabled: true
+  footer:
+    enabled: true
