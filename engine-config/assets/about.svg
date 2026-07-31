@@ -8,49 +8,34 @@ Widget: about
   <title>About Widget</title>
   <desc>ProfileForge About widget</desc>
   <defs>
-  <!-- Animated gradient for progress bar fill -->
   <linearGradient id="pf-progress-grad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.75"/>
     <stop offset="70%" stop-color="#58A6FF"/>
     <stop offset="100%" stop-color="#D2A8FF" stop-opacity="0.9"/>
   </linearGradient>
 
-  <!-- Card border: subtle blue-to-transparent gradient -->
   <linearGradient id="pf-card-border" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.6"/>
     <stop offset="60%" stop-color="#30363D" stop-opacity="0.9"/>
     <stop offset="100%" stop-color="#30363D" stop-opacity="0.4"/>
   </linearGradient>
 
-  <!-- Card background: very subtle top-to-bottom gradient -->
   <linearGradient id="pf-card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
     <stop offset="0%" stop-color="transparent" stop-opacity="0.95"/>
     <stop offset="100%" stop-color="transparent" stop-opacity="0.8"/>
   </linearGradient>
 
-  <!-- Card background: Hero vibrant gradient -->
   <linearGradient id="pf-card-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#3b0918"/>
     <stop offset="50%" stop-color="#1e1333"/>
     <stop offset="100%" stop-color="#091629"/>
   </linearGradient>
 
-  <!-- Glow for progress bar fill -->
-  <filter id="pf-progress-glow" x="-5%" y="-100%" width="110%" height="300%">
-    <feGaussianBlur stdDeviation="1.5" result="blur"/>
-    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-  </filter>
-
-  <!-- Soft drop shadow for cards -->
-  <filter id="pf-card-shadow" x="-4%" y="-4%" width="108%" height="114%">
-    <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#58A6FF" flood-opacity="0.07"/>
-  </filter>
-
-  <!-- Progress bar track background -->
   <linearGradient id="pf-track-bg" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#8B949E" stop-opacity="0.15"/>
     <stop offset="100%" stop-color="#8B949E" stop-opacity="0.08"/>
   </linearGradient>
+
 
   <linearGradient id="pf-badge-0" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.25"/>
@@ -86,7 +71,7 @@ Widget: about
   </linearGradient>
 </defs>
   
-<svg x="0" y="0" width="820" height="250" viewBox="0 0 820 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="group" filter="url(#pf-card-shadow)">
+<svg x="0" y="0" width="820" height="250" viewBox="0 0 820 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
     <title> Card</title>
     <desc>Card component for </desc>
     <rect x="0.5" y="0.5" width="819" height="249" fill="url(#pf-card-gradient)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>

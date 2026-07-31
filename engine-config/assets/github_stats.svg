@@ -4,53 +4,38 @@ Version: 1
 Theme: github-dark
 Widget: github_stats
 -->
-<svg width="820" height="212" viewBox="0 0 820 212" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="820" height="328" viewBox="0 0 820 328" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Github_Stats Widget</title>
   <desc>ProfileForge Github_Stats widget</desc>
   <defs>
-  <!-- Animated gradient for progress bar fill -->
   <linearGradient id="pf-progress-grad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.75"/>
     <stop offset="70%" stop-color="#58A6FF"/>
     <stop offset="100%" stop-color="#D2A8FF" stop-opacity="0.9"/>
   </linearGradient>
 
-  <!-- Card border: subtle blue-to-transparent gradient -->
   <linearGradient id="pf-card-border" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.6"/>
     <stop offset="60%" stop-color="#30363D" stop-opacity="0.9"/>
     <stop offset="100%" stop-color="#30363D" stop-opacity="0.4"/>
   </linearGradient>
 
-  <!-- Card background: very subtle top-to-bottom gradient -->
   <linearGradient id="pf-card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
     <stop offset="0%" stop-color="transparent" stop-opacity="0.95"/>
     <stop offset="100%" stop-color="transparent" stop-opacity="0.8"/>
   </linearGradient>
 
-  <!-- Card background: Hero vibrant gradient -->
   <linearGradient id="pf-card-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#3b0918"/>
     <stop offset="50%" stop-color="#1e1333"/>
     <stop offset="100%" stop-color="#091629"/>
   </linearGradient>
 
-  <!-- Glow for progress bar fill -->
-  <filter id="pf-progress-glow" x="-5%" y="-100%" width="110%" height="300%">
-    <feGaussianBlur stdDeviation="1.5" result="blur"/>
-    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-  </filter>
-
-  <!-- Soft drop shadow for cards -->
-  <filter id="pf-card-shadow" x="-4%" y="-4%" width="108%" height="114%">
-    <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#58A6FF" flood-opacity="0.07"/>
-  </filter>
-
-  <!-- Progress bar track background -->
   <linearGradient id="pf-track-bg" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#8B949E" stop-opacity="0.15"/>
     <stop offset="100%" stop-color="#8B949E" stop-opacity="0.08"/>
   </linearGradient>
+
 
   <linearGradient id="pf-badge-0" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.25"/>
@@ -86,27 +71,54 @@ Widget: github_stats
   </linearGradient>
 </defs>
   
-<svg x="0" y="0" width="820" height="212" viewBox="0 0 820 212" fill="none" xmlns="http://www.w3.org/2000/svg" role="group" filter="url(#pf-card-shadow)">
+<svg x="0" y="0" width="820" height="328" viewBox="0 0 820 328" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
     <title>GitHub Stats (@iisgaurav) Card</title>
     <desc>Card component for GitHub Stats (@iisgaurav)</desc>
-    <rect x="0.5" y="0.5" width="819" height="211" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
+    <rect x="0.5" y="0.5" width="819" height="327" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="20" y="16" width="3" height="20" rx="1.5" fill="#58A6FF" opacity="0.9"/>
     <text x="32" y="31" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9" letter-spacing="0.3">GitHub Stats (@iisgaurav)</text>
     <line x1="20" y1="44" x2="800" y2="44" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.25"/>
-    <text x="40" y="108" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">⭐</text>
+    
+<g>
+    <circle cx="210.0" cy="180.0" r="52.0" fill="none" stroke="#8B949E" stroke-width="6" stroke-opacity="0.15"/>
+    <circle cx="210.0" cy="180.0" r="52.0" fill="none" stroke="#58A6FF" stroke-width="6" stroke-dasharray="326.72535999999997" stroke-dashoffset="326.72535999999997" transform="rotate(-90 210.0 180.0)" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" from="326.72535999999997" to="0.0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    </circle>
+    <svg x="198.0" y="156.0" width="24" height="24" viewBox="0 0 16 16" fill="#58A6FF"><path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/></svg>
+    <text x="210.0" y="192.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9" text-anchor="middle">2660</text>
+    <text x="210.0" y="208.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle">Total Score</text>
+</g>
 
-<text x="56" y="106" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8B949E">TOTAL STARS</text>
+<g>
+    <rect x="224" y="92" width="140" height="80" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
+    <svg x="236" y="104" width="20" height="20" viewBox="0 0 16 16" fill="#58A6FF"><path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/></svg>
+    <text x="236" y="156" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9">21</text>
+    <text x="236" y="134" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Total Stars</text>
+    
+</g>
 
-<text x="66" y="152" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#C9D1D9">21</text>
-<text x="333" y="108" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">🔄</text>
+<g>
+    <rect x="380" y="92" width="140" height="80" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
+    <svg x="392" y="104" width="20" height="20" viewBox="0 0 16 16" fill="#58A6FF"><path d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113.125 2.066v5.368a2.25 2.25 0 11-1.5 0V5.316A2.25 2.25 0 011.5 3.25zm2.25 9.25a.75.75 0 100-1.5.75.75 0 000 1.5zm6.5-12.5a2.25 2.25 0 110 4.5 2.25 2.25 0 010-4.5zm0 1.5a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
+    <text x="392" y="156" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9">180</text>
+    <text x="392" y="134" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Pull Requests</text>
+    
+</g>
 
-<text x="349" y="106" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8B949E">PULL REQUESTS</text>
+<g>
+    <rect x="224" y="188" width="140" height="80" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
+    <svg x="236" y="200" width="20" height="20" viewBox="0 0 16 16" fill="#58A6FF"><path d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+    <text x="236" y="252" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9">4558</text>
+    <text x="236" y="230" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Total Commits</text>
+    
+</g>
 
-<text x="357" y="152" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#C9D1D9">180</text>
-<text x="639" y="108" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">🔥</text>
-
-<text x="655" y="106" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8B949E">TOTAL COMMITS</text>
-
-<text x="654" y="152" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#C9D1D9">4556</text>
+<g>
+    <rect x="380" y="188" width="140" height="80" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
+    <svg x="392" y="200" width="20" height="20" viewBox="0 0 16 16" fill="#58A6FF"><path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
+    <text x="392" y="252" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9">--</text>
+    <text x="392" y="230" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Repositories</text>
+    
+</g>
 </svg>
 </svg>
