@@ -12,6 +12,11 @@ connectors:
 widgets:
   - name: about
   - name: github_languages
+    config:
+      ignore:
+        - MDX
+        - HTML
+        - CSS
   - name: expertise
   - name: github_stats
 outputs:
