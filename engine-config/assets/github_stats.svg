@@ -4,7 +4,7 @@ Version: 1
 Theme: github-dark
 Widget: github_stats
 -->
-<svg width="820" height="160" viewBox="0 0 820 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="820" height="212" viewBox="0 0 820 212" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Github_Stats Widget</title>
   <desc>ProfileForge Github_Stats widget</desc>
   <defs>
@@ -86,19 +86,27 @@ Widget: github_stats
   </linearGradient>
 </defs>
   
-<svg x="0" y="0" width="820" height="160" viewBox="0 0 820 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="group" filter="url(#pf-card-shadow)">
-    <title> Card</title>
-    <desc>Card component for </desc>
-    <rect x="0.5" y="0.5" width="819" height="159" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
-    
-    
-    
-    <text x="258" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#C9D1D9">GitHub Stats (iisgaurav)</text>
+<svg x="0" y="0" width="820" height="212" viewBox="0 0 820 212" fill="none" xmlns="http://www.w3.org/2000/svg" role="group" filter="url(#pf-card-shadow)">
+    <title>GitHub Stats (@iisgaurav) Card</title>
+    <desc>Card component for GitHub Stats (@iisgaurav)</desc>
+    <rect x="0.5" y="0.5" width="819" height="211" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
+    <rect x="20" y="16" width="3" height="20" rx="1.5" fill="#58A6FF" opacity="0.9"/>
+    <text x="32" y="31" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9" letter-spacing="0.3">GitHub Stats (@iisgaurav)</text>
+    <line x1="20" y1="44" x2="800" y2="44" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.25"/>
+    <text x="40" y="108" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">⭐</text>
 
-<text x="342" y="72" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">⭐ Stars: 21</text>
+<text x="56" y="106" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8B949E">TOTAL STARS</text>
 
-<text x="346" y="96" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">🔄 PRs: 180</text>
+<text x="66" y="152" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#C9D1D9">21</text>
+<text x="333" y="108" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">🔄</text>
 
-<text x="324" y="120" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">🔥 Commits: 4555</text>
+<text x="349" y="106" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8B949E">PULL REQUESTS</text>
+
+<text x="357" y="152" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#C9D1D9">180</text>
+<text x="639" y="108" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#C9D1D9">🔥</text>
+
+<text x="655" y="106" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8B949E">TOTAL COMMITS</text>
+
+<text x="654" y="152" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#C9D1D9">4556</text>
 </svg>
 </svg>
