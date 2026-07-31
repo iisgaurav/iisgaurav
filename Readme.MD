@@ -108,20 +108,13 @@ My engineering principles:
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <picture>
-          <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=20260731014600" alt="Roadmap" width="100%"/>
-        </picture>
-      </td>
-      <td valign="top" width="50%">
-        <picture>
-          <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=20260731014600" alt="Expertise" width="100%"/>
-        </picture>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=v6" alt="Roadmap" width="100%">
+  </picture>
+  <br />
+  <picture>
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=v6" alt="Expertise" width="100%">
+  </picture>
 </div>
 
 ---
