@@ -4,7 +4,7 @@ Version: 1
 Theme: github-dark
 Widget: github_languages
 -->
-<svg width="820" height="250" viewBox="0 0 820 250" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="820" height="306" viewBox="0 0 820 306" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Github_Languages Widget</title>
   <desc>ProfileForge Github_Languages widget</desc>
   <defs>
@@ -86,10 +86,10 @@ Widget: github_languages
   </linearGradient>
 </defs>
   
-<svg x="0" y="0" width="820" height="250" viewBox="0 0 820 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="group" filter="url(#pf-card-shadow)">
+<svg x="0" y="0" width="820" height="306" viewBox="0 0 820 306" fill="none" xmlns="http://www.w3.org/2000/svg" role="group" filter="url(#pf-card-shadow)">
     <title>Language Distribution Card</title>
     <desc>Card component for Language Distribution</desc>
-    <rect x="0.5" y="0.5" width="819" height="249" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
+    <rect x="0.5" y="0.5" width="819" height="305" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="20" y="16" width="3" height="20" rx="1.5" fill="#58A6FF" opacity="0.9"/>
     <text x="32" y="31" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#C9D1D9" letter-spacing="0.3">Language Distribution</text>
     <line x1="20" y1="44" x2="800" y2="44" stroke="#58A6FF" stroke-width="0.5" stroke-opacity="0.25"/>
