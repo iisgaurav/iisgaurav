@@ -113,7 +113,7 @@ My engineering principles:
   </picture>
   <br />
   <picture>
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=v8" alt="Roadmap" width="100%">
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/github_languages.svg?v=v9" alt="Top Languages" width="100%">
   </picture>
   <br />
   <picture>

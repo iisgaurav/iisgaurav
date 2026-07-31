@@ -4,15 +4,14 @@ project:
   title: "Software Engineer"
 themes:
   active: "github-dark"
-datasources:
-  local:
-    root: "./engine-config/config"
 connectors:
+  local:
+    root: "./config"
   github:
     username: "iisgaurav"
 widgets:
   - name: about
-  - name: roadmap
+  - name: github_languages
   - name: expertise
   - name: github_stats
 outputs:
