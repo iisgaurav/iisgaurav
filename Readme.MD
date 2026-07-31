@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/about.svg?v=v5" alt="Gaurav Verma Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/about.svg?v=v7" alt="Gaurav Verma Banner" width="100%" />
   </picture>
 
   <br />
@@ -109,11 +109,15 @@ My engineering principles:
 
 <div align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=v6" alt="Roadmap" width="100%">
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/github_stats.svg?v=v7" alt="GitHub Stats" width="100%">
   </picture>
   <br />
   <picture>
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=v6" alt="Expertise" width="100%">
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/roadmap.svg?v=v7" alt="Roadmap" width="100%">
+  </picture>
+  <br />
+  <picture>
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/expertise.svg?v=v7" alt="Expertise" width="100%">
   </picture>
 </div>
 

@@ -6,11 +6,15 @@ themes:
   active: "github-dark"
 datasources:
   local:
-    root: "./config"
+    root: "./engine-config/config"
+connectors:
+  github:
+    username: "iisgaurav"
 widgets:
   - name: about
   - name: roadmap
   - name: expertise
+  - name: github_stats
 outputs:
   svg:
     enabled: true
