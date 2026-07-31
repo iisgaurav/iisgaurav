@@ -24,9 +24,11 @@ jobs:
           python-version: '3.12'
           
       - name: Install ProfileForge
-        run: pip install git+https://github.com/iisgaurav/profileforge.git
+        run: pip install "profileforge[github] @ git+https://github.com/iisgaurav/profileforge.git"
         
       - name: Build Profile Widgets
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILEFORGE_PAT }}
         run: |
           cd engine-config
           profileforge build
