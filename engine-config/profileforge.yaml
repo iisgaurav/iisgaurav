@@ -5,7 +5,7 @@ project:
   title: "Software Engineer"
 
 themes:
-  active: "github-dark"
+  active: "vercel"
 
 connectors:
   local:
