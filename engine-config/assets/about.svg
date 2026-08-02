@@ -78,18 +78,18 @@ Widget: about
     
     
     
-    <text x="196" y="76" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="32" font-weight="800" fill="#EDEDED">Hi, I&#x27;m Gaurav Verma 👋</text>
+    <text x="216" y="84" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="32" font-weight="800" fill="#EDEDED">Hi, I&#x27;m Gaurav Verma 👋</text>
 
-<text x="233" y="99" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="15" font-weight="600" fill="#EDEDED">Backend Engineer · Open Source Builder</text>
+<text x="253" y="107" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="15" font-weight="600" fill="#EDEDED">Backend Engineer · Open Source Builder</text>
 
 
 <g role="term">
-    <rect x="301" y="115" width="178" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="390.0" y="127.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">● Open to collaborate</text>
+    <rect x="321" y="123" width="178" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="410.0" y="135.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">● Open to collaborate</text>
 </g>
 
-<text x="144" y="169" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#A1A1AA">&quot;Turning complex problems into clean APIs and scalable systems.&quot;</text>
+<text x="164" y="177" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#A1A1AA">&quot;Turning complex problems into clean APIs and scalable systems.&quot;</text>
 
-<text x="354" y="190" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#A1A1AA">📍 India 🇮🇳</text>
+<text x="374" y="198" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="normal" fill="#A1A1AA">📍 India 🇮🇳</text>
 </svg>
 </svg>

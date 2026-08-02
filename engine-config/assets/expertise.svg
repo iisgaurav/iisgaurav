@@ -75,129 +75,129 @@ Widget: expertise
     <title>My Expertise Card</title>
     <desc>Card component for My Expertise</desc>
     <rect x="0.5" y="0.5" width="819" height="249" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="12"/>
-    <rect x="20" y="16" width="3" height="20" rx="1.5" fill="#FFFFFF" opacity="0.9"/>
-    <text x="32" y="31" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED" letter-spacing="0.3">My Expertise</text>
-    <line x1="20" y1="44" x2="800" y2="44" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.25"/>
-    <text x="20" y="85" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Languages</text>
+    <rect x="24" y="24" width="4" height="20" rx="2" fill="#FFFFFF" opacity="0.9"/>
+    <text x="36" y="40" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED" letter-spacing="0.3">My Expertise</text>
+    <line x1="24" y1="60" x2="796" y2="60" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.25"/>
+    <text x="44" y="97" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Languages</text>
 
 <g role="term">
-    <rect x="20" y="93" width="79" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="59.5" y="105.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Python</text>
+    <rect x="44" y="105" width="79" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="83.5" y="117.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Python</text>
 </g>
 
 <g role="term">
-    <rect x="107" y="93" width="59" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="136.5" y="105.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">SQL</text>
+    <rect x="131" y="105" width="59" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="160.5" y="117.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">SQL</text>
 </g>
 
 <g role="term">
-    <rect x="174" y="93" width="106" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="227.0" y="105.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">JavaScript</text>
+    <rect x="198" y="105" width="106" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="251.0" y="117.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">JavaScript</text>
 </g>
 
 <g role="term">
-    <rect x="288" y="93" width="106" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="341.0" y="105.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">TypeScript</text>
+    <rect x="312" y="105" width="106" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="365.0" y="117.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">TypeScript</text>
 </g>
 
-<text x="20" y="146" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Backend</text>
+<text x="44" y="158" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Backend</text>
 
 <g role="term">
-    <rect x="20" y="154" width="79" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="59.5" y="166.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django</text>
-</g>
-
-<g role="term">
-    <rect x="107" y="154" width="178" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="196.0" y="166.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django REST Framework</text>
+    <rect x="44" y="166" width="79" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="83.5" y="178.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django</text>
 </g>
 
 <g role="term">
-    <rect x="293" y="154" width="86" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="336.0" y="166.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Aiogram</text>
-</g>
-
-<text x="20" y="207" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Database</text>
-
-<g role="term">
-    <rect x="20" y="215" width="106" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="73.0" y="227.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">PostgreSQL</text>
+    <rect x="131" y="166" width="178" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="220.0" y="178.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Django REST Framework</text>
 </g>
 
 <g role="term">
-    <rect x="134" y="215" width="73" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="170.5" y="227.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Redis</text>
+    <rect x="317" y="166" width="86" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="360.0" y="178.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Aiogram</text>
+</g>
+
+<text x="44" y="219" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Database</text>
+
+<g role="term">
+    <rect x="44" y="227" width="106" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="97.0" y="239.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">PostgreSQL</text>
 </g>
 
 <g role="term">
-    <rect x="215" y="215" width="73" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="251.5" y="227.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">MySQL</text>
-</g>
-
-<text x="20" y="268" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Frontend</text>
-
-<g role="term">
-    <rect x="20" y="276" width="86" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="63.0" y="288.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Next.js</text>
+    <rect x="158" y="227" width="73" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="194.5" y="239.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Redis</text>
 </g>
 
 <g role="term">
-    <rect x="114" y="276" width="73" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="150.5" y="288.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">React</text>
+    <rect x="239" y="227" width="73" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="275.5" y="239.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">MySQL</text>
+</g>
+
+<text x="44" y="280" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Frontend</text>
+
+<g role="term">
+    <rect x="44" y="288" width="86" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="87.0" y="300.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Next.js</text>
 </g>
 
 <g role="term">
-    <rect x="195" y="276" width="119" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="254.5" y="288.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Tailwind CSS</text>
-</g>
-
-<text x="20" y="329" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Devops</text>
-
-<g role="term">
-    <rect x="20" y="337" width="79" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="59.5" y="349.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Docker</text>
+    <rect x="138" y="288" width="73" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="174.5" y="300.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">React</text>
 </g>
 
 <g role="term">
-    <rect x="107" y="337" width="59" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="136.5" y="349.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Git</text>
+    <rect x="219" y="288" width="119" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="278.5" y="300.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Tailwind CSS</text>
+</g>
+
+<text x="44" y="341" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Devops</text>
+
+<g role="term">
+    <rect x="44" y="349" width="79" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="83.5" y="361.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Docker</text>
 </g>
 
 <g role="term">
-    <rect x="174" y="337" width="132" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="240.0" y="349.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">GitHub Actions</text>
+    <rect x="131" y="349" width="59" height="24" rx="12" fill="url(#pf-badge-6)" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="160.5" y="361.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EC4899" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Git</text>
 </g>
 
 <g role="term">
-    <rect x="314" y="337" width="73" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="350.5" y="349.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Linux</text>
-</g>
-
-<text x="20" y="390" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Engineering</text>
-
-<g role="term">
-    <rect x="20" y="398" width="158" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="99.0" y="410.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Clean Architecture</text>
+    <rect x="198" y="349" width="132" height="24" rx="12" fill="url(#pf-badge-7)" stroke="#84CC16" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="264.0" y="361.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#84CC16" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">GitHub Actions</text>
 </g>
 
 <g role="term">
-    <rect x="186" y="398" width="99" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="235.5" y="410.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">REST APIs</text>
+    <rect x="338" y="349" width="73" height="24" rx="12" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="374.5" y="361.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Linux</text>
+</g>
+
+<text x="44" y="402" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="13" font-weight="600" fill="#A1A1AA">Engineering</text>
+
+<g role="term">
+    <rect x="44" y="410" width="158" height="24" rx="12" fill="url(#pf-badge-1)" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="123.0" y="422.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#10B981" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Clean Architecture</text>
 </g>
 
 <g role="term">
-    <rect x="293" y="398" width="106" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="346.0" y="410.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">API Design</text>
+    <rect x="210" y="410" width="99" height="24" rx="12" fill="url(#pf-badge-2)" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="259.5" y="422.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#8B5CF6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">REST APIs</text>
 </g>
 
 <g role="term">
-    <rect x="407" y="398" width="198" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="506.0" y="410.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Asynchronous Programming</text>
+    <rect x="317" y="410" width="106" height="24" rx="12" fill="url(#pf-badge-3)" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="370.0" y="422.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#F59E0B" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">API Design</text>
 </g>
 
 <g role="term">
-    <rect x="613" y="398" width="125" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
-    <text x="675.5" y="410.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">System Design</text>
+    <rect x="431" y="410" width="198" height="24" rx="12" fill="url(#pf-badge-4)" stroke="#EF4444" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="530.0" y="422.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#EF4444" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">Asynchronous Programming</text>
+</g>
+
+<g role="term">
+    <rect x="637" y="410" width="125" height="24" rx="12" fill="url(#pf-badge-5)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.5"/>
+    <text x="699.5" y="422.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#06B6D4" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">System Design</text>
 </g>
 </svg>
 </svg>
