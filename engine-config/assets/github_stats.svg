@@ -85,7 +85,7 @@ Widget: github_stats
         <animate attributeName="stroke-dashoffset" from="326.72535999999997" to="0.0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     </circle>
     <svg x="216.0" y="172.0" width="20" height="20" viewBox="0 0 16 16" fill="#FFFFFF"><path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/></svg>
-    <text x="226.0" y="208.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED" text-anchor="middle">2,671</text>
+    <text x="226.0" y="208.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED" text-anchor="middle">2,672</text>
     <text x="226.0" y="224.0" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#A1A1AA" text-anchor="middle">Total Score</text>
 </g>
 
@@ -109,7 +109,7 @@ Widget: github_stats
     <rect x="350" y="208" width="140" height="80" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="12"/>
     <svg x="366" y="224" width="18" height="18" viewBox="0 0 16 16" fill="#FFFFFF"><path d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
     <text x="394" y="238" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" fill="#A1A1AA" font-weight="600">Total Commits</text>
-    <text x="366" y="268" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED">4,580</text>
+    <text x="366" y="268" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED">4,582</text>
     
 </g>
 
