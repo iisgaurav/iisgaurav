@@ -4,7 +4,7 @@ Version: 1
 Theme: vercel
 Widget: github_languages
 -->
-<svg width="820" height="322" viewBox="0 0 820 322" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="820" height="282" viewBox="0 0 820 282" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Github_Languages Widget</title>
   <desc>ProfileForge Github_Languages widget</desc>
   <defs>
@@ -71,69 +71,69 @@ Widget: github_languages
   </linearGradient>
 </defs>
   
-<svg x="0" y="0" width="820" height="322" viewBox="0 0 820 322" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
+<svg x="0" y="0" width="820" height="282" viewBox="0 0 820 282" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
     <title>Language Distribution Card</title>
     <desc>Card component for Language Distribution</desc>
-    <rect x="0.5" y="0.5" width="819" height="321" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="12"/>
+    <rect x="0.5" y="0.5" width="819" height="281" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="12"/>
     <rect x="24" y="24" width="4" height="20" rx="2" fill="#FFFFFF" opacity="0.9"/>
     <text x="36" y="40" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED" letter-spacing="0.3">Language Distribution</text>
     <line x1="24" y1="60" x2="796" y2="60" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.25"/>
-    <text x="44" y="98" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">Python</text>
+    <text x="24" y="78" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">Python</text>
 
-<text x="670" y="97" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">75.1% (22 repos)</text>
+<text x="690" y="77" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">75.1% (22 repos)</text>
 
 
 <g role="meter" aria-valuenow="75.1" aria-valuemin="0" aria-valuemax="100">
-    <rect x="44" y="102" width="732" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="44" y="102" width="549.732" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="549.732" dur="1.20s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
+    <rect x="24" y="82" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
+    <rect x="24" y="82" width="579.7719999999999" height="8" fill="url(#pf-progress-grad)" rx="6">
+        <animate attributeName="width" from="0" to="579.7719999999999" dur="1.20s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g>
 
-<text x="44" y="140" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">TypeScript</text>
+<text x="24" y="120" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">TypeScript</text>
 
-<text x="677" y="139" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">22.1% (9 repos)</text>
+<text x="697" y="119" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">22.1% (9 repos)</text>
 
 
 <g role="meter" aria-valuenow="22.1" aria-valuemin="0" aria-valuemax="100">
-    <rect x="44" y="144" width="732" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="44" y="144" width="161.772" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="161.772" dur="0.78s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
+    <rect x="24" y="124" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
+    <rect x="24" y="124" width="170.612" height="8" fill="url(#pf-progress-grad)" rx="6">
+        <animate attributeName="width" from="0" to="170.612" dur="0.78s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g>
 
-<text x="44" y="182" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">JavaScript</text>
+<text x="24" y="162" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">JavaScript</text>
 
-<text x="677" y="181" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">1.6% (12 repos)</text>
+<text x="697" y="161" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">1.6% (12 repos)</text>
 
 
 <g role="meter" aria-valuenow="1.6" aria-valuemin="0" aria-valuemax="100">
-    <rect x="44" y="186" width="732" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="44" y="186" width="11.712" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="11.712" dur="0.61s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
+    <rect x="24" y="166" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
+    <rect x="24" y="166" width="12.352" height="8" fill="url(#pf-progress-grad)" rx="6">
+        <animate attributeName="width" from="0" to="12.352" dur="0.61s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g>
 
-<text x="44" y="224" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">SCSS</text>
+<text x="24" y="204" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">SCSS</text>
 
-<text x="684" y="223" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">0.8% (2 repos)</text>
+<text x="704" y="203" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">0.8% (2 repos)</text>
 
 
 <g role="meter" aria-valuenow="0.8" aria-valuemin="0" aria-valuemax="100">
-    <rect x="44" y="228" width="732" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="44" y="228" width="5.856" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="5.856" dur="0.61s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
+    <rect x="24" y="208" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
+    <rect x="24" y="208" width="6.176" height="8" fill="url(#pf-progress-grad)" rx="6">
+        <animate attributeName="width" from="0" to="6.176" dur="0.61s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g>
 
-<text x="44" y="266" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">Dockerfile</text>
+<text x="24" y="246" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">Dockerfile</text>
 
-<text x="677" y="265" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">0.1% (16 repos)</text>
+<text x="697" y="245" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">0.1% (16 repos)</text>
 
 
 <g role="meter" aria-valuenow="0.1" aria-valuemin="0" aria-valuemax="100">
-    <rect x="44" y="270" width="732" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="44" y="270" width="4" height="8" fill="url(#pf-progress-grad)" rx="6">
+    <rect x="24" y="250" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
+    <rect x="24" y="250" width="4" height="8" fill="url(#pf-progress-grad)" rx="6">
         <animate attributeName="width" from="0" to="4" dur="0.60s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g>
