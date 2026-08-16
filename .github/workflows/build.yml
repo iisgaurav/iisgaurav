@@ -28,7 +28,7 @@ jobs:
         
       - name: Build Profile Widgets
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILEFORGE_PAT }}
+          GITHUB_TOKEN: ${{ secrets.PROFILEFORGE_PAT || secrets.GITHUB_TOKEN_SECRET || secrets.GH_TOKEN || secrets.PAT }}
         run: |
           cd engine-config
           profileforge build
