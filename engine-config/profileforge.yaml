@@ -21,7 +21,7 @@ widgets:
         - MDX
         - HTML
         - CSS
-  - name: expertise
+  - name: skills
   - name: github_stats
 
 outputs:
