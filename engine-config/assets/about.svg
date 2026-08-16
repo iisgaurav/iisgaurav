@@ -134,36 +134,20 @@ Widget: about
     <stop offset="100%" stop-color="#84CC16" stop-opacity="0.1"/>
   </linearGradient>
 </defs>
-<<<<<<< HEAD
-<g role="group" data-pf-id="card_bc021c">
+<g role="group" data-pf-id="card_6978db">
     <rect x="0.5" y="0.5" width="819" height="249" fill="url(#pf-card-gradient)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     
     
     
-    <g data-pf-id="column_c58bd5"><text x="410.0" y="56" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#ECEFF4" text-anchor="middle"  data-pf-id="text_f25730">Hi, I&#x27;m Gaurav Verma 👋</text>
-<text x="410.0" y="99" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#88C0D0" text-anchor="middle"  data-pf-id="text_6699dc">Software Engineer</text>
-<g data-pf-id="inline_9bc7af"><g role="term" data-pf-id="badge_0cf16f">
-=======
-<g role="group" data-pf-id="card_32a67b">
-    <rect x="0.5" y="0.5" width="819" height="249" fill="url(#pf-card-gradient)" stroke="url(#pf-card-border)" stroke-width="1" rx="12"/>
-    
-    
-    
-    <g data-pf-id="column_899522"><text x="410.0" y="56" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="32" font-weight="800" fill="#EDEDED" text-anchor="middle"  data-pf-id="text_b2a73b">Hi, I&#x27;m Gaurav Verma 👋</text>
-<text x="410.0" y="99" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle"  data-pf-id="text_56ed8b">Software Engineer</text>
-<g data-pf-id="inline_224e08"><g role="term" data-pf-id="badge_ae2eef">
->>>>>>> aba42bbcbcab04f76e08e0657d48716c15cf25c3
+    <g data-pf-id="column_5ece62"><text x="410.0" y="56" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#ECEFF4" text-anchor="middle"  data-pf-id="text_d6d605">Hi, I&#x27;m Gaurav Verma 👋</text>
+<text x="410.0" y="99" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#88C0D0" text-anchor="middle"  data-pf-id="text_0643fb">Software Engineer</text>
+<g data-pf-id="inline_2fb9be"><g role="term" data-pf-id="badge_e3685d">
     <rect x="282.5" y="120" width="255" height="29" rx="14" fill="url(#pf-badge-0)" stroke="#3B82F6" stroke-width="0.8" stroke-opacity="0.5"/>
     
     <text x="410.0" y="134.5" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#3B82F6" text-anchor="middle" dominant-baseline="central" font-weight="600" letter-spacing="0.3">● Available for opportunities</text>
 </g></g>
-<<<<<<< HEAD
-<line x1="110" y1="165.5" x2="710" y2="165.5" stroke="#88C0D0" stroke-width="1" stroke-opacity="0.4" data-pf-id="divider_5a905d"/>
-<text x="410.0" y="196" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#D8DEE9" text-anchor="middle"  data-pf-id="text_a01239">&quot;Building high-performance software with craft and care.&quot;</text></g>
-=======
-<line x1="110" y1="165.5" x2="710" y2="165.5" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.4" data-pf-id="divider_42cfe4"/>
-<text x="410.0" y="196" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="normal" fill="#A1A1AA" text-anchor="middle"  data-pf-id="text_c16400">&quot;Building high-performance software with craft and care.&quot;</text></g>
->>>>>>> aba42bbcbcab04f76e08e0657d48716c15cf25c3
+<line x1="110" y1="165.5" x2="710" y2="165.5" stroke="#88C0D0" stroke-width="1" stroke-opacity="0.4" data-pf-id="divider_93fe44"/>
+<text x="410.0" y="196" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#D8DEE9" text-anchor="middle"  data-pf-id="text_759679">&quot;Building high-performance software with craft and care.&quot;</text></g>
 </g>
 </svg>
 </svg>
