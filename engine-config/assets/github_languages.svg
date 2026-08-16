@@ -4,7 +4,7 @@ Version: 1
 Theme: vercel
 Widget: github_languages
 -->
-<svg width="820" height="282" viewBox="0 0 820 282" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="820" height="88" viewBox="0 0 820 88" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Github_Languages Widget</title>
   <desc>ProfileForge Github_Languages widget</desc>
   <defs>
@@ -25,10 +25,10 @@ Widget: github_languages
     <stop offset="100%" stop-color="#111111" stop-opacity="0.8"/>
   </linearGradient>
 
-  <linearGradient id="pf-card-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#3b0918"/>
-    <stop offset="50%" stop-color="#1e1333"/>
-    <stop offset="100%" stop-color="#091629"/>
+  <linearGradient id="pf-card-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#111111"/>
+    <stop offset="50%" stop-color="#000000"/>
+    <stop offset="100%" stop-color="#111111"/>
   </linearGradient>
 
   <linearGradient id="pf-track-bg" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -70,72 +70,76 @@ Widget: github_languages
     <stop offset="100%" stop-color="#84CC16" stop-opacity="0.1"/>
   </linearGradient>
 </defs>
-  
-<svg x="0" y="0" width="820" height="282" viewBox="0 0 820 282" fill="none" xmlns="http://www.w3.org/2000/svg" role="group">
-    <title>Language Distribution Card</title>
-    <desc>Card component for Language Distribution</desc>
-    <rect x="0.5" y="0.5" width="819" height="281" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="12"/>
+  <svg width="820" height="88" viewBox="0 0 820 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="pf-progress-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.75"/>
+    <stop offset="70%" stop-color="#FFFFFF"/>
+    <stop offset="100%" stop-color="#0070F3" stop-opacity="0.9"/>
+  </linearGradient>
+
+  <linearGradient id="pf-card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.6"/>
+    <stop offset="60%" stop-color="#333333" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#333333" stop-opacity="0.4"/>
+  </linearGradient>
+
+  <linearGradient id="pf-card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#111111" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#111111" stop-opacity="0.8"/>
+  </linearGradient>
+
+  <linearGradient id="pf-card-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#111111"/>
+    <stop offset="50%" stop-color="#000000"/>
+    <stop offset="100%" stop-color="#111111"/>
+  </linearGradient>
+
+  <linearGradient id="pf-track-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#A1A1AA" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#A1A1AA" stop-opacity="0.08"/>
+  </linearGradient>
+
+
+  <linearGradient id="pf-badge-0" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="pf-badge-1" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#10B981" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#10B981" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="pf-badge-2" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="pf-badge-3" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="pf-badge-4" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#EF4444" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#EF4444" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="pf-badge-5" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="pf-badge-6" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#EC4899" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#EC4899" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="pf-badge-7" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#84CC16" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#84CC16" stop-opacity="0.1"/>
+  </linearGradient>
+</defs>
+<g role="group" data-pf-id="card_709577">
+    <rect x="0.5" y="0.5" width="819" height="87" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="12"/>
     <rect x="24" y="24" width="4" height="20" rx="2" fill="#FFFFFF" opacity="0.9"/>
-    <text x="36" y="40" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#EDEDED" letter-spacing="0.3">Language Distribution</text>
+    <text x="36" y="40" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="24" font-weight="700" fill="#EDEDED" letter-spacing="0.3">Estimated Language Distribution</text>
     <line x1="24" y1="60" x2="796" y2="60" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.25"/>
-    <text x="24" y="78" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">Python</text>
-
-<text x="690" y="77" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">75.1% (22 repos)</text>
-
-
-<g role="meter" aria-valuenow="75.1" aria-valuemin="0" aria-valuemax="100">
-    <rect x="24" y="82" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="24" y="82" width="579.7719999999999" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="579.7719999999999" dur="1.20s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
-    </rect>
-</g>
-
-<text x="24" y="120" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">TypeScript</text>
-
-<text x="697" y="119" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">22.1% (9 repos)</text>
-
-
-<g role="meter" aria-valuenow="22.1" aria-valuemin="0" aria-valuemax="100">
-    <rect x="24" y="124" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="24" y="124" width="170.612" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="170.612" dur="0.78s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
-    </rect>
-</g>
-
-<text x="24" y="162" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">JavaScript</text>
-
-<text x="697" y="161" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">1.6% (12 repos)</text>
-
-
-<g role="meter" aria-valuenow="1.6" aria-valuemin="0" aria-valuemax="100">
-    <rect x="24" y="166" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="24" y="166" width="12.352" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="12.352" dur="0.61s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
-    </rect>
-</g>
-
-<text x="24" y="204" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">SCSS</text>
-
-<text x="704" y="203" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">0.8% (2 repos)</text>
-
-
-<g role="meter" aria-valuenow="0.8" aria-valuemin="0" aria-valuemax="100">
-    <rect x="24" y="208" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="24" y="208" width="6.176" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="6.176" dur="0.61s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
-    </rect>
-</g>
-
-<text x="24" y="246" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EDEDED">Dockerfile</text>
-
-<text x="697" y="245" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="12" font-weight="normal" fill="#A1A1AA">0.1% (16 repos)</text>
-
-
-<g role="meter" aria-valuenow="0.1" aria-valuemin="0" aria-valuemax="100">
-    <rect x="24" y="250" width="772" height="8" fill="url(#pf-track-bg)" rx="6"/>
-    <rect x="24" y="250" width="4" height="8" fill="url(#pf-progress-grad)" rx="6">
-        <animate attributeName="width" from="0" to="4" dur="0.60s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
-    </rect>
+    <g data-pf-id="column_037d2e"></g>
 </g>
 </svg>
 </svg>
