@@ -106,7 +106,7 @@ My engineering principles:
 <br/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/github_stats.svg?v=v13" alt="GitHub Stats" width="100%">
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/github_stats.svg?v=v13" alt="GitHub Stats" width="80%">
 </div>
 
 ---
