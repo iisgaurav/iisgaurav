@@ -45,11 +45,6 @@ Software Engineer at TCS working on enterprise search systems and backend applic
 - Java backend development
 - Search and retrieval systems
 
-### Thomas Cook India
-**Operations & Events**
-*2023*
-- Coordinated large-scale operational workflows and event executions
-
 ---
 
 ## 🛠️ Tech Stack
@@ -108,13 +103,10 @@ Software Engineer at TCS working on enterprise search systems and backend applic
 ## 📊 GitHub Stats
 
 <br/>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/github_stats.svg?v=v14" alt="GitHub Stats" width="80%">
+<div style="padding:0px 0px 0px 50px">
+    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/github_stats.svg?v=v14" alt="GitHub Stats" width="47%">
 </div>
 <br/>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/iisgaurav/iisgaurav/main/engine-config/assets/github_languages.svg?v=v14" alt="GitHub Languages" width="80%">
-</div>
 
 ---
 
