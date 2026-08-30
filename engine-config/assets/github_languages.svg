@@ -134,41 +134,41 @@ Widget: github_languages
     <stop offset="100%" stop-color="#84CC16" stop-opacity="0.1"/>
   </linearGradient>
 </defs>
-<g role="group" data-pf-id="card_b85a82">
+<g role="group" data-pf-id="card_e5d526">
     <rect x="0.5" y="0.5" width="819" height="361" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="24" y="24" width="4" height="20" rx="2" fill="#88C0D0" opacity="0.9"/>
     <text x="36" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ECEFF4" letter-spacing="0.3">Language Distribution</text>
     <line x1="24" y1="60" x2="796" y2="60" stroke="#88C0D0" stroke-width="0.5" stroke-opacity="0.25"/>
-    <g data-pf-id="column_b49759"><g data-pf-id="column_0b16d7"><g data-pf-id="inline_b7f364"><text x="24" y="78" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_8fa922">Python</text><text x="679.0" y="77.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_9b2c08">60.0% (15 repos)</text></g>
-<g role="meter" aria-valuenow="60.0" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_056c7d">
+    <g data-pf-id="column_a9055e"><g data-pf-id="column_b48493"><g data-pf-id="inline_ffc6aa"><text x="24" y="78" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_e0e108">Python</text><text x="679.0" y="77.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_6688c0">60.0% (15 repos)</text></g>
+<g role="meter" aria-valuenow="60.0" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_4524e1">
     <rect x="24" y="98" width="772" height="8" fill="url(#pf-track-bg)" rx="4"/>
     <rect x="24" y="98" width="463.2" height="8" fill="url(#pf-progress-grad)" rx="4">
         <animate attributeName="width" from="0" to="463.2" dur="1.08s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g></g>
-<g data-pf-id="column_a500f2"><g data-pf-id="inline_2c14c1"><text x="24" y="136" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_e7c991">TypeScript</text><text x="686.0" y="135.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_c143a9">35.2% (8 repos)</text></g>
-<g role="meter" aria-valuenow="35.2" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_76a4d7">
+<g data-pf-id="column_c55265"><g data-pf-id="inline_45f155"><text x="24" y="136" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_514902">TypeScript</text><text x="686.0" y="135.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_0ff047">35.2% (8 repos)</text></g>
+<g role="meter" aria-valuenow="35.2" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_def754">
     <rect x="24" y="156" width="772" height="8" fill="url(#pf-track-bg)" rx="4"/>
     <rect x="24" y="156" width="271.744" height="8" fill="url(#pf-progress-grad)" rx="4">
         <animate attributeName="width" from="0" to="271.744" dur="0.88s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g></g>
-<g data-pf-id="column_b249dd"><g data-pf-id="inline_8875f6"><text x="24" y="194" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_0b2e89">JavaScript</text><text x="686.0" y="193.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_37ab6e">2.9% (11 repos)</text></g>
-<g role="meter" aria-valuenow="2.9" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_b75999">
+<g data-pf-id="column_a9becc"><g data-pf-id="inline_d28f72"><text x="24" y="194" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_f4c72b">JavaScript</text><text x="686.0" y="193.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_62fb17">2.9% (11 repos)</text></g>
+<g role="meter" aria-valuenow="2.9" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_50df62">
     <rect x="24" y="214" width="772" height="8" fill="url(#pf-track-bg)" rx="4"/>
     <rect x="24" y="214" width="22.387999999999998" height="8" fill="url(#pf-progress-grad)" rx="4">
         <animate attributeName="width" from="0" to="22.387999999999998" dur="0.62s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g></g>
-<g data-pf-id="column_794dc4"><g data-pf-id="inline_d0e938"><text x="24" y="252" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_66142a">SCSS</text><text x="693.0" y="251.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_946f99">1.4% (2 repos)</text></g>
-<g role="meter" aria-valuenow="1.4" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_5cc472">
+<g data-pf-id="column_8d0039"><g data-pf-id="inline_ddf1d5"><text x="24" y="252" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_3db951">SCSS</text><text x="693.0" y="251.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_54c37f">1.4% (2 repos)</text></g>
+<g role="meter" aria-valuenow="1.4" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_09cf97">
     <rect x="24" y="272" width="772" height="8" fill="url(#pf-track-bg)" rx="4"/>
     <rect x="24" y="272" width="10.807999999999998" height="8" fill="url(#pf-progress-grad)" rx="4">
         <animate attributeName="width" from="0" to="10.807999999999998" dur="0.61s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
     </rect>
 </g></g>
-<g data-pf-id="column_80b592"><g data-pf-id="inline_0162ba"><text x="24" y="310" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_450364">Java</text><text x="693.0" y="309.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_a06f15">0.2% (1 repos)</text></g>
-<g role="meter" aria-valuenow="0.2" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_1252e0">
+<g data-pf-id="column_7e1f60"><g data-pf-id="inline_fb4f76"><text x="24" y="310" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#ECEFF4"  data-pf-id="text_63932b">Java</text><text x="693.0" y="309.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_f9618a">0.2% (1 repos)</text></g>
+<g role="meter" aria-valuenow="0.2" aria-valuemin="0" aria-valuemax="100" data-pf-id="progressbar_af7c47">
     <rect x="24" y="330" width="772" height="8" fill="url(#pf-track-bg)" rx="4"/>
     <rect x="24" y="330" width="4" height="8" fill="url(#pf-progress-grad)" rx="4">
         <animate attributeName="width" from="0" to="4" dur="0.60s" calcMode="spline" keySplines="0.25 0.1 0.25 1" fill="freeze"/>
