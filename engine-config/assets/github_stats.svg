@@ -134,12 +134,12 @@ Widget: github_stats
     <stop offset="100%" stop-color="#84CC16" stop-opacity="0.1"/>
   </linearGradient>
 </defs>
-<g role="group" data-pf-id="card_557059">
+<g role="group" data-pf-id="card_2a7771">
     <rect x="0.5" y="0.5" width="819" height="455" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="24" y="24" width="4" height="20" rx="2" fill="#88C0D0" opacity="0.9"/>
     <text x="36" y="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ECEFF4" letter-spacing="0.3">GitHub Stats (@iisgaurav)</text>
     <line x1="24" y1="60" x2="796" y2="60" stroke="#88C0D0" stroke-width="0.5" stroke-opacity="0.25"/>
-    <g data-pf-id="column_e1649f"><g data-pf-id="padding_ffa195"><g data-pf-id="inline_839915"><g data-pf-id="circularmetric_a9fa54">
+    <g data-pf-id="column_8cc426"><g data-pf-id="padding_3c1539"><g data-pf-id="inline_8b6a9e"><g data-pf-id="circularmetric_e21112">
     <circle cx="116.0" cy="192.0" r="52.0" fill="none" stroke="#D8DEE9" stroke-width="6" stroke-opacity="0.15"/>
     <circle cx="116.0" cy="192.0" r="52.0" fill="none" stroke="url(#pf-progress-grad)" stroke-width="6" stroke-dasharray="326.72535999999997" stroke-dashoffset="326.72535999999997" transform="rotate(-90 116.0 192.0)" stroke-linecap="round">
         <animate attributeName="stroke-dashoffset" from="326.72535999999997" to="326.72535999999997" dur="1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
@@ -147,7 +147,7 @@ Widget: github_stats
     <svg x="106.0" y="168.0" width="20" height="20" viewBox="0 0 16 16" fill="#88C0D0"><path d="M11.5 2.5a.75.75 0 01.75.75v4.5a.75.75 0 01-1.5 0V4.56l-3.22 3.22a.75.75 0 01-1.06 0L4.5 5.81l-3.47 3.47a.75.75 0 01-1.06-1.06l4-4a.75.75 0 011.06 0L7 6.19l2.69-2.69H6.75a.75.75 0 010-1.5h4.75z"/></svg>
     <text x="116.0" y="204.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ECEFF4" text-anchor="middle">0</text>
     <text x="116.0" y="220.0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#D8DEE9" text-anchor="middle">Activity</text>
-</g><g data-pf-id="inline_32a3e5"><g data-pf-id="column_83fb30"><g data-pf-id="sparklinemetric_01a315">
+</g><g data-pf-id="inline_517e8b"><g data-pf-id="column_d65391"><g data-pf-id="sparklinemetric_dd2a00">
     <rect x="248.0" y="96" width="250" height="88" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="264.0" y="112" width="48" height="48" fill="#B48EAD" opacity="0.1" rx="12"/>
     <svg x="280.0" y="128" width="16" height="16" viewBox="0 0 16 16" fill="#B48EAD"><path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/></svg>
@@ -156,7 +156,7 @@ Widget: github_stats
     <text x="328.0" y="166" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#D8DEE9">All time</text>
     <path d="M 422.0 147.2 L 434.0 142.4 L 446.0 137.6 L 458.0 132.8 L 470.0 128.0 L 482.0 152.0" fill="none" stroke="#B48EAD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g data-pf-id="sparklinemetric_d04b70">
+<g data-pf-id="sparklinemetric_9214da">
     <rect x="248.0" y="200" width="250" height="88" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="264.0" y="216" width="48" height="48" fill="#A3BE8C" opacity="0.1" rx="12"/>
     <svg x="280.0" y="232" width="16" height="16" viewBox="0 0 16 16" fill="#A3BE8C"><path d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
@@ -164,7 +164,7 @@ Widget: github_stats
     <text x="328.0" y="254" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ECEFF4">0</text>
     <text x="328.0" y="270" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#D8DEE9">All time</text>
     <path d="M 422.0 255.2 L 434.0 252.0 L 446.0 248.0 L 458.0 240.0 L 470.0 232.0 L 482.0 256.0" fill="none" stroke="#A3BE8C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-</g></g><g data-pf-id="column_dc4588"><g data-pf-id="sparklinemetric_7ef442">
+</g></g><g data-pf-id="column_a2f9ad"><g data-pf-id="sparklinemetric_f7341f">
     <rect x="514.0" y="96" width="250" height="88" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="530.0" y="112" width="48" height="48" fill="#81A1C1" opacity="0.1" rx="12"/>
     <svg x="546.0" y="128" width="16" height="16" viewBox="0 0 16 16" fill="#81A1C1"><path d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113.125 2.066v5.368a2.25 2.25 0 11-1.5 0V5.316A2.25 2.25 0 011.5 3.25zm2.25 9.25a.75.75 0 100-1.5.75.75 0 000 1.5zm6.5-12.5a2.25 2.25 0 110 4.5 2.25 2.25 0 010-4.5zm0 1.5a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -173,7 +173,7 @@ Widget: github_stats
     <text x="594.0" y="166" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#D8DEE9">All time</text>
     <path d="M 688.0 147.2 L 700.0 142.4 L 712.0 137.6 L 724.0 132.8 L 736.0 128.0 L 748.0 152.0" fill="none" stroke="#81A1C1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g data-pf-id="sparklinemetric_1751a1">
+<g data-pf-id="sparklinemetric_cde61a">
     <rect x="514.0" y="200" width="250" height="88" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     <rect x="530.0" y="216" width="48" height="48" fill="#EBCB8B" opacity="0.1" rx="12"/>
     <svg x="546.0" y="232" width="16" height="16" viewBox="0 0 16 16" fill="#EBCB8B"><path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
@@ -182,14 +182,14 @@ Widget: github_stats
     <text x="594.0" y="270" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#D8DEE9">All time</text>
     <path d="M 688.0 244.0 L 695.5 244.0 L 703.0 241.6 L 710.5 241.6 L 718.0 239.2 L 725.5 239.2 L 733.0 236.8 L 740.5 232.0 L 748.0 256.0" fill="none" stroke="#EBCB8B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g></g></g></g></g>
-<g role="group" data-pf-id="card_78079f">
+<g role="group" data-pf-id="card_04b93b">
     <rect x="24.5" y="352.5" width="771" height="79" fill="url(#pf-card-bg)" stroke="url(#pf-card-border)" stroke-width="1" rx="6"/>
     
     
     
-    <g data-pf-id="inline_901e99"><g data-pf-id="inline_1ba97c"><svg x="48" y="384.0" width="16" height="16" viewBox="0 0 16 16" fill="#81A1C1" data-pf-id="icon_ce54af"><path d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5V3.75a.25.25 0 00-.25-.25H2.75a.25.25 0 00-.25.25v.75zm-2.25 2v8.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V5.5H2.5z"/></svg><g data-pf-id="column_03880f"><text x="76" y="390" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_a6cdea">Joined GitHub</text>
-<text x="76" y="406" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ECEFF4"  data-pf-id="text_2b3dca">Apr 2019</text></g></g><g data-pf-id="inline_b4c64e"><svg x="658.0" y="384.0" width="16" height="16" viewBox="0 0 16 16" fill="#A3BE8C" data-pf-id="icon_808300"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zm7.25-3.25v2.92l2.28 1.32a.75.75 0 01-.76 1.3l-2.75-1.59A.75.75 0 017 8V4.75a.75.75 0 011.5 0z"/></svg><g data-pf-id="column_5668bd"><text x="686.0" y="390" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_bd1e8b">Last Active</text>
-<text x="686.0" y="406" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ECEFF4"  data-pf-id="text_475564">Recently</text></g></g></g>
+    <g data-pf-id="inline_ab66c2"><g data-pf-id="inline_b07ef4"><svg x="48" y="384.0" width="16" height="16" viewBox="0 0 16 16" fill="#81A1C1" data-pf-id="icon_44472d"><path d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5V3.75a.25.25 0 00-.25-.25H2.75a.25.25 0 00-.25.25v.75zm-2.25 2v8.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V5.5H2.5z"/></svg><g data-pf-id="column_ebea91"><text x="76" y="390" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_6470da">Joined GitHub</text>
+<text x="76" y="406" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ECEFF4"  data-pf-id="text_f6a062">Apr 2019</text></g></g><g data-pf-id="inline_7c4f1e"><svg x="658.0" y="384.0" width="16" height="16" viewBox="0 0 16 16" fill="#A3BE8C" data-pf-id="icon_e471ed"><path d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zm7.25-3.25v2.92l2.28 1.32a.75.75 0 01-.76 1.3l-2.75-1.59A.75.75 0 017 8V4.75a.75.75 0 011.5 0z"/></svg><g data-pf-id="column_044c74"><text x="686.0" y="390" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#D8DEE9"  data-pf-id="text_b6c01c">Last Active</text>
+<text x="686.0" y="406" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ECEFF4"  data-pf-id="text_a9f7bf">Recently</text></g></g></g>
 </g></g>
 </g>
 </svg>
